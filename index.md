@@ -18,7 +18,6 @@ I am an assistant professor at the School of Electronic Information and Electric
 * Machine Learning
 * Nonlinear Manifold Learning  
 * Semi-supervised Learning
-* Data Mining
 * Neural Information Processing
 
 ## News
