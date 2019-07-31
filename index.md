@@ -10,7 +10,6 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 # Welcome to Enmei's homepage!
-## Bio
 I am an assistant professor at the School of Electronic Information and Electrical Engineering (SEIEE), [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I obtained PhD degree from Shanghai Jiao Tong University, China in 2014.
 	Before joining SJTU, I worked as a postdoc Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, from Jan. 2015 to Dec. 2017.
 
