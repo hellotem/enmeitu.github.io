@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 # Welcome to Enmei's homepage!
 I am an assistant professor at the School of Electronic Information and Electrical Engineering (SEIEE), [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I obtained PhD degree from Shanghai Jiao Tong University, China in 2014.
-	Before joining SJTU, I worked as a postdoc Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, from Jan. 2015 to Dec. 2017.
+	Thereafter, I worked as a postdoc Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, from Jan. 2015 to Dec. 2017. From Jan. 2018, I joined SJTU as a tenure-track assistant professor.
 
 
 ## Research Interests
@@ -21,13 +21,13 @@ I am an assistant professor at the School of Electronic Information and Electric
 * Neural Information Processing
 
 ## News
-*  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact directly with an email titled "SJTU Student Research"
+*  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
 
 
 ## Contact
-Email: tuen#sjtu.edu.cn (replace # with @， e.g. abc#sjtu.edu.cn means abc@sjtu.edu.cn)
+Email: tuen#sjtu.edu.cn (replace # with @， e.g. _abc#sjtu.edu.cn_ means _abc@sjtu.edu.cn_)
 
-## Publications
+## Selected Publications (Full Publications: [Google Scholar](https://scholar.google.com.sg/citations?user=TDg-0cQAAAAJ&hl=en)
 * ***Enmei Tu***, Guanghao Zhang, Lily Rachmawati et al, Mining Big Historical Data to Improve Vessel Path Prediction: An Off-Line Approach For Automatic Identification System (AIS) Data Learning, _IEEE Transactions on Intelligent  Transportation System_: (To be submitted)
 
 * ***Enmei Tu***, Guanghao Zhang, Lily Rachmawati et al. Exploiting AIS Data For Intelligent Maritime Navigation: A Comprehensive Survey, _IEEE Transactions on Intelligent Transportation System_:, (Accepted)
