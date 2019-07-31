@@ -40,7 +40,7 @@ Enmei Tu, Guanghao Zhang, Lily Rachmawati et al. IEEE Transactions on Intelligen
 Enmei Tu,Yaqian Zhang,Lin Zhu, Jie Yang,Nicola Kasabov. Information Scieces: 2016 ,367 ,673- 688
 
 * Graph Based Machine Learning Algorithms Design and Its Application in Neural Network Research
-Tu Enmei. PhD Thesis (In Chinese), Shanghai Jiao Tong University: 2014 Download
+Tu Enmei. PhD Thesis (In Chinese), Shanghai Jiao Tong University: 2014 
 
 * Mapping Temporal Variables Into the NeuCube for Improved Pattern Recognition, Predictive Modeling, and Understanding of Stream Data
 Tu, Enmei and Kasabov, Nikola and Yang, Jie. IEEE Transactions on Neural Networks and  Learning Systems: 2016
