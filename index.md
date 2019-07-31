@@ -9,7 +9,7 @@ layout: default
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-# Welcome to Yaqian's homepage!
+# Welcome to Enmei's homepage!
 ## Bio
 I am an assistant professor at the School of Electronic Information and Electrical Engineering (SEIEE), [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I obtained PhD degree from Shanghai Jiao Tong University, China in 2014.
 	Before joining SJTU, I worked as a postdoc Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, from Jan. 2015 to Dec. 2017.
@@ -43,7 +43,7 @@ Enmei Tu,Yaqian Zhang,Lin Zhu, Jie Yang,Nicola Kasabov. Information Scieces: 201
 Tu Enmei. PhD Thesis (In Chinese), Shanghai Jiao Tong University: 2014 Download
 
 * Mapping Temporal Variables Into the NeuCube for Improved Pattern Recognition, Predictive Modeling, and Understanding of Stream Data
-Tu, Enmei and Kasabov, Nikola and Yang, Jie. IEEE Transactions on Neural Networks and  Learning Systems: 2016 Abstract
+Tu, Enmei and Kasabov, Nikola and Yang, Jie. IEEE Transactions on Neural Networks and  Learning Systems: 2016
 
 * Posterior Distribution Learning (PDL): A novel supervised learning framework using unlabeled samples to improve classification performance
 Tu, Enmei and Yang, Jie and Kasabov, Nicola and Zhang, Yaqian. Neurocomputing: 2015 ,157 ,173--186
@@ -52,13 +52,13 @@ Tu, Enmei and Yang, Jie and Kasabov, Nicola and Zhang, Yaqian. Neurocomputing: 2
 Tu, Enmei and Cao, Longbing and Yang, Jie and Kasabov, Nicola. Neurocomputing: 2014 ,143 ,109--122
 
 * An Experimental Comparison of Semi-supervised Learning Algorithms for Multispectral Image Classification
-Tu, Enmei and Yang, Jie and Fang, Jiangxiong and Jia, Zhenghong and Kasabov, Nikola. Photogrammetric Engineering & Remote Sensing: 2013 ,79(4) ,347--357 
+Tu, Enmei and Yang, Jie and Fang, Jiangxiong and Jia, Zhenghong and Kasabov, Nikola. Photogrammetric Engineering & Remote Sensing: 2013,79(4) ,347--357
 
 * Posterior Distribution Learning (PDL): A Novel Supervised Learning Framework
-Tu, Enmei and Yang, Jie and Jia, Zhenghong and Kasabov, Nicola. Neural Information Processing: 2014 ,86--94
+Tu, Enmei and Yang, Jie and Jia, Zhenghong and Kasabov, Nicola. Neural Information Processing: 2014,86--94
 
 * Neucube (st) for spatio-temporal data predictive modelling with a case study on ecological data
-Tu, Enmei and Kasabov, Nikola and Othman, Marini and Li, Yuxiao and Worner, Susan and Yang, Jie and Jia, Zhenghong. Neural Networks (IJCNN), 2014 International Joint Conference on: 2014 ,638--645
+Tu, Enmei and Kasabov, Nikola and Othman, Marini and Li, Yuxiao and Worner, Susan and Yang, Jie and Jia, Zhenghong. Neural Networks (IJCNN), 2014 International Joint Conference on: 2014,638--645
 
 
 <!-- ### Header 3
