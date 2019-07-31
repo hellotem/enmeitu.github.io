@@ -27,7 +27,8 @@ I am an assistant professor at the School of Electronic Information and Electric
 ## Contact
 Email: tuen#sjtu.edu.cn (replace # with @， e.g. _abc#sjtu.edu.cn_ means _abc@sjtu.edu.cn_)
 
-## Selected Publications (Full Publications: [Google Scholar](https://scholar.google.com.sg/citations?user=TDg-0cQAAAAJ&hl=en)
+## Selected Publications 
+(Full Publications: [Google Scholar](https://scholar.google.com.sg/citations?user=TDg-0cQAAAAJ&hl=en))
 * ***Enmei Tu***, Guanghao Zhang, Lily Rachmawati et al, Mining Big Historical Data to Improve Vessel Path Prediction: An Off-Line Approach For Automatic Identification System (AIS) Data Learning, _IEEE Transactions on Intelligent  Transportation System_: (To be submitted)
 
 * ***Enmei Tu***, Guanghao Zhang, Lily Rachmawati et al. Exploiting AIS Data For Intelligent Maritime Navigation: A Comprehensive Survey, _IEEE Transactions on Intelligent Transportation System_:, (Accepted)
