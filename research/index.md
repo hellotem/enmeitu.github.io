@@ -3,7 +3,7 @@
 * Deep Learning & Neural Networks: focusing on reducing training sample demand for deep neural networks
 * Time Series Analysis: mining rules and associations from time series data to make better prediction
 ## Projects & Fundings
-### Principal Investigator
+#### Principal Investigator
  * Semi-Supervised Deep Learning Algorithms and Their Applications on Time Series Data Prediction, National Natural Science Foundation Of China (NSFC) Young Scientists Fund
  * Deep Spiking Neural Network Model Research and Applications in Spatio-Temporal Data Analysis, Natural Science Foundation of Shanghai
  * Shanghai Jiao Tong University High-Level Talent Recruitment and Training Project
