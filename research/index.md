@@ -2,6 +2,7 @@
 * Semi-Supervised Learning: how to training a classifier with an extremely small amount of labeled samples
 * Deep Learning & Neural Networks: focusing on reducing training sample demand for deep neural networks
 * Time Series Analysis: mining rules and associations from time series data to make better prediction
+
 ## Projects & Fundings
 #### Principal Investigator
  * Semi-Supervised Deep Learning Algorithms and Their Applications on Time Series Data Prediction, National Natural Science Foundation Of China (NSFC) Young Scientists Fund
