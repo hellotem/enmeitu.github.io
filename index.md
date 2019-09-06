@@ -16,16 +16,16 @@ I am an assistant professor (tenure track) at the School of Electronic Informati
 	Thereafter, I worked as a postdoc Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, from Jan. 2015 to Dec. 2017. I have been an assistant professor at SJTU from Jan. 2018.
 
 ## Education
-* 2010.09--2014.11 Shanghai Jiao Tong University, PhD
-* 2007.09--2010.07 University of Electronic Science and Technology of China, MEng
-* 2003.09--2007.07 University of Electronic Science and Technology of China, BEng
+* 2010.09--2014.11, Shanghai Jiao Tong University, PhD
+* 2007.09--2010.07, University of Electronic Science and Technology of China, MEng
+* 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
 
 ## News
 *  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
 
 ## Courses
-* Machine Learning and Knowledge Discovery
-* Intelligent Computation
+* Machine Learning and Knowledge Discovery (undergraduate)
+* Intelligent Computation (graduate)
 
 
 ## Contact
