@@ -1,3 +1,22 @@
+## Research Interests
+* Semi-Supervised Learning: how to training a classifier with an extremely small amount of labeled samples
+* Deep Learning & Neural Networks: focusing on reducing training sample demand for deep neural networks
+* Time Series Analysis: mining rules and associations from time series data to make better prediction
+## Projects & Fundings
+### Principal Investigator
+ * Semi-Supervised Deep Learning Algorithms and Their Applications on Time Series Data Prediction, National Natural Science Foundation Of China (NSFC) Young Scientists Fund
+ * Deep Spiking Neural Network Model Research and Applications in Spatio-Temporal Data Analysis, Natural Science Foundation of Shanghai
+ * Shanghai Jiao Tong University High-Level Talent Recruitment and Training Project
+#### Participant
+* Marine Navigational Decision Aid based upon Vessel Route Prediction from Historical Evidence,  National Research Foundation (NRF) of Singapore, 2015.08 - 2017.12
+* NeuCube System for Spatio-Temporal Data Analysis, Visualization and Knowledge Extraction, AUT Strategic Research Investment Fund, 2014.12 - 2015.08
+* Ecological Pollution Monitoring and Warning Oriented Remote Sensing Image Analysis and Understanding, Ministry of Science and Technology of China International Cooperation Project, 2014.02 - 2014. 11 
+* Remote Sensing Monitoring, Understanding and Ecological Pollution Warning Intelligent Research, Ministry of Science and Technology of China International Cooperation Project, 2010.09 - 2013.11
+
+## Patents:
+*  Graph-based k-means for nonlinear manifold clustering and representative points selection, CN103617609B
+*  Multi-resolution variant regional level set for image segmentation,  CN102044077B
+*  Historical AIS data modeling for path prediction, UK Patent
 
 ## Selected Publications 
 (Full Publications: [Google Scholar](https://scholar.google.com.sg/citations?user=TDg-0cQAAAAJ&hl=en))
