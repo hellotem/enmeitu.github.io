@@ -9,7 +9,8 @@ layout: default
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-# Welcome to Enmei's homepage! (Under construction...)
+# Welcome to Enmei Tu's homepage! 
+(Under construction...)
 ## Short Bio
 I am an assistant professor (tenure track) at the School of Electronic Information and Electrical Engineering (SEIEE), [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I obtained a PhD degree from Shanghai Jiao Tong University, China in 2014.
 	Thereafter, I worked as a postdoc Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, from Jan. 2015 to Dec. 2017. I have been an assistant professor at SJTU from Jan. 2018.
@@ -18,14 +19,13 @@ I am an assistant professor (tenure track) at the School of Electronic Informati
 * 2010.09--2014.11 Shanghai Jiao Tong University, PhD
 * 2007.09--2010.07 University of Electronic Science and Technology of China, MEng
 * 2003.09--2007.07 University of Electronic Science and Technology of China, BEng
-## Research Interests
-* Machine Learning
-* Nonlinear Manifold Learning  
-* Semi-supervised Learning
-* Neural Information Processing
 
 ## News
 *  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
+
+## Courses
+* Machine Learning and Knowledge Discovery
+* Intelligent Computation
 
 
 ## Contact
