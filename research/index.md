@@ -8,7 +8,7 @@
 #### Principal Investigator
  * Semi-Supervised Deep Learning Algorithms and Their Applications on Time Series Data Prediction, Natural Science Foundation Of China (NSFC) Young Scientists Fund
  * Deep Spiking Neural Network Model Research and Applications in Spatio-Temporal Data Analysis, Natural Science Foundation of Shanghai
- * Shanghai Jiao Tong University High-Level Talent Recruitment and Training Project
+ * Startup Fund for Youngman Research at Shanghai Jiao Tong University (SFYR at SJTU) 
 #### Participant
 * Research on Key Technologies of Brain-like Computing Models for Video Analysis, Natural Science Foundation Of China (NSFC), 2019.01-2023.01
 * Multi-layer non-positive definite kernel learning theory, algorithm and application research, Natural Science Foundation Of China (NSFC), 2020.01-2024.01
