@@ -21,10 +21,10 @@ I am a tenure-track assistant professor at the School of Electronic Information 
 * 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
 
 ## Working Experiences
-* 2013.11--2014.02, Auckland University of Technology, Visiting Scholar
-* 2014.12--2015.08, Auckland University of Technology, Postdoc Research Fellow
-* 2015.08--2017.12, Nanyang Technological Univerity, Research Fellow
-* 2018.01--Present, Shanghai Jiao Tong University, Assistant Professor  
+* 2013.11--2014.02, Auckland University of Technology, New Zealand. Visiting Scholar
+* 2014.12--2015.08, Auckland University of Technology, New Zealand. Postdoc Research Fellow
+* 2015.08--2017.12, Nanyang Technological Univerity, Singapore. Research Fellow
+* 2018.01--Present, Shanghai Jiao Tong University, China. Assistant Professor  
 
 ## News
 *  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
