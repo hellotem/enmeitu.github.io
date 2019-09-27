@@ -34,9 +34,9 @@ I am a tenure-track assistant professor at the School of Electronic Information 
 * 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at Nanyang Technological University
 * 2017 Rolls-Royce Inventors Award
 
-## Courses
+## Teaching
 * Machine Learning and Knowledge Discovery (undergraduate)
-* Intelligent Computation (graduate)
+* Intelligent Computational Theory and Applications (graduate)
 
 
 ## Contact
