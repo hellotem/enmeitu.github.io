@@ -6,10 +6,12 @@
 ## Projects & Funds
 
 #### Principal Investigator
- * Semi-Supervised Deep Learning Algorithms and Their Applications on Time Series Data Prediction, National Natural Science Foundation Of China (NSFC) Young Scientists Fund
+ * Semi-Supervised Deep Learning Algorithms and Their Applications on Time Series Data Prediction, Natural Science Foundation Of China (NSFC) Young Scientists Fund
  * Deep Spiking Neural Network Model Research and Applications in Spatio-Temporal Data Analysis, Natural Science Foundation of Shanghai
  * Shanghai Jiao Tong University High-Level Talent Recruitment and Training Project
 #### Participant
+* Research on Key Technologies of Brain-like Computing Models for Video Analysis, Natural Science Foundation Of China (NSFC), 2018.01-2022.01
+* Multi-layer non-positive definite kernel learning theory, algorithm and application research, Natural Science Foundation Of China (NSFC), 2019.01-2023.01
 * Marine Navigational Decision Aid based upon Vessel Route Prediction from Historical Evidence,  National Research Foundation (NRF) of Singapore, 2015.08 - 2017.12
 * NeuCube System for Spatio-Temporal Data Analysis, Visualization and Knowledge Extraction, AUT Strategic Research Investment Fund, 2014.12 - 2015.08
 * Ecological Pollution Monitoring and Warning Oriented Remote Sensing Image Analysis and Understanding, Ministry of Science and Technology of China International Cooperation Project, 2014.02 - 2014. 11 
