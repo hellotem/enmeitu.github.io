@@ -11,9 +11,9 @@
  * Startup Fund for Youngman Research at Shanghai Jiao Tong University (SFYR at SJTU) 
 #### Participant
 * Research on Key Technologies of Brain-like Computing Models for Video Analysis, Natural Science Foundation Of China (NSFC), 2019.01-2023.01
-* Multi-layer non-positive definite kernel learning theory, algorithm and application research, Natural Science Foundation Of China (NSFC), 2020.01-2024.01
-* Construction of heart fiber DTI map and cardiac fiber Constant feature detection based on fiber information joint clustering and sparse registration, Natural Science Foundation Of China (NSFC), 2019.01-2021.01
-* Marine Navigational Decision Aid based upon Vessel Route Prediction from Historical Evidence,  National Research Foundation (NRF) of Singapore, 2015.08 - 2017.12
+* Multi-layer Non-Positive Definite Kernel Learning Theory, Algorithm and Application Research, Natural Science Foundation Of China (NSFC), 2020.01-2024.01
+* Construction of Heart Fiber DTI Map and Cardiac Fiber Constant Feature Detection Based on Fiber Information Joint Clustering and Sparse Registration, Natural Science Foundation Of China (NSFC), 2019.01-2021.01
+* Marine Navigational Decision Aid Based Upon Vessel Route Prediction from Historical Evidence,  National Research Foundation (NRF) of Singapore, 2015.08 - 2017.12
 * NeuCube System for Spatio-Temporal Data Analysis, Visualization and Knowledge Extraction, AUT Strategic Research Investment Fund, 2014.12 - 2015.08
 * Ecological Pollution Monitoring and Warning Oriented Remote Sensing Image Analysis and Understanding, Ministry of Science and Technology of China International Cooperation Project, 2014.02 - 2014. 11 
 * Remote Sensing Monitoring, Understanding and Ecological Pollution Warning Intelligent Research, Ministry of Science and Technology of China International Cooperation Project, 2010.09 - 2013.11
