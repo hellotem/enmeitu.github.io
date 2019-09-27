@@ -21,23 +21,22 @@ I am a tenure-track assistant professor at the School of Electronic Information 
 * 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
 
 ## Working Experiences
-* 2013.11--2014.02, Auckland University of Technology, New Zealand. Visiting Scholar
-* 2014.12--2015.08, Auckland University of Technology, New Zealand. Postdoc Research Fellow
+* 2018.01--Present, Shanghai Jiao Tong University, China. Assistant Professor 
 * 2015.08--2017.12, Nanyang Technological Univerity, Singapore. Research Fellow
-* 2018.01--Present, Shanghai Jiao Tong University, China. Assistant Professor  
+* 2014.12--2015.08, Auckland University of Technology, New Zealand. Postdoc Research Fellow
+* 2013.11--2014.02, Auckland University of Technology, New Zealand. Visiting Scholar
 
 ## News
 *  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
 
 ## Awards
 * 2017.06, FE (Far Exceed), top award of yearly research appraisal at Nanyang Technological University
-* 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at Nanyang Technological University
 * 2017 Rolls-Royce Inventors Award
+* 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at Nanyang Technological University
 
 ## Teaching
 * Machine Learning and Knowledge Discovery (undergraduate)
 * Intelligent Computational Theory and Applications (graduate)
-
 
 ## Contact
 Email: tuen#sjtu.edu.cn (replace # with @， e.g. _abc#sjtu.edu.cn_ means _abc@sjtu.edu.cn_)
