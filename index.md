@@ -30,9 +30,9 @@ I am a tenure-track assistant professor at the School of Electronic Information 
 *  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
 
 ## Awards
-* 2017.06, FE (Far Exceed), top award of yearly research appraisal at Nanyang Technological University
+* 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
 * 2017 Rolls-Royce Inventors Award
-* 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at Nanyang Technological University
+* 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at NTU
 
 ## Teaching
 * Machine Learning and Knowledge Discovery (undergraduate)
