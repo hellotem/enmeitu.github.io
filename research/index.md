@@ -27,7 +27,7 @@
 (Full Publications: [Google Scholar](https://scholar.google.com.sg/citations?user=TDg-0cQAAAAJ&hl=en))
 * ***Enmei Tu***, Guanghao Zhang, Lily Rachmawati et al, Mining Big Historical Data to Improve Vessel Path Prediction: An Off-Line Approach For Automatic Identification System (AIS) Data Learning, _IEEE Transactions on Intelligent  Transportation System_: (To be submitted)
 
-* ***Enmei Tu***, Guanghao Zhang, Lily Rachmawati et al. Exploiting AIS Data For Intelligent Maritime Navigation: A Comprehensive Survey, _IEEE Transactions on Intelligent Transportation System_:, (Accepted)
+* ***Enmei Tu***, Guanghao Zhang, Lily Rachmawati et al. Exploiting AIS Data For Intelligent Maritime Navigation: A Comprehensive Survey, _IEEE Transactions on Intelligent Transportation System, 2018, 19(5): 1559-1582.
 
 * ***Enmei Tu***, Yaqian Zhang, Lin Zhu, Jie Yang, Nicola Kasabov. A Graph-Based Semi-Supervised $k$ Nearest-Neighbor Method for Nonlinear Manifold Distributed Data Classification, _Information Scieces_: 2016, 367, 673- 688
 
