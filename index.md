@@ -36,8 +36,8 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * Intelligent Computational Theory and Applications (graduate)
 
 ## Contact
-Email: tuen#sjtu.edu.cn (replace # with @， e.g. _abc#sjtu.edu.cn_ means _abc@sjtu.edu.cn_)
-Office: SEIEE 2-428, 800 Dongchuan Road, Shanghai, China
+* Email: tuen#sjtu.edu.cn (replace # with @， e.g. _abc#sjtu.edu.cn_ means _abc@sjtu.edu.cn_)
+* Office: SEIEE 2-428, 800 Dongchuan Road, Shanghai, China
 
 
 <!-- ### Header 3
