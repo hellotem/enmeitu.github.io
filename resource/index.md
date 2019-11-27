@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+## News
+*  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
+
 ## Conferences Dates
 
 Name | Submission Deadline | Conference Location 
@@ -12,3 +15,4 @@ Name | Submission Deadline | Conference Location
 [NeurIPS-20](https://nips.cc/Conferences/2020)| 23-May-2020 (TBD)|Vancouver, Canada
 
 ###### Updated on 16-Aug-2019 
+
