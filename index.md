@@ -10,6 +10,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 # Welcome to Enmei Tu's homepage! 
+
+## News
+*  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
+
 ## Short Bio
 Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/), China in 2014. Thereafter, he worked as a postdoc Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, from Jan. 2015 to Dec. 2017. He has been an assistant professor at SJTU from Jan. 2018. His research interests are semi-supervised learning, manifold learning and neural information processing.
 
@@ -23,9 +27,6 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2015.08--2017.12, Nanyang Technological Univerity, Singapore. Research Fellow
 * 2014.12--2015.08, Auckland University of Technology, New Zealand. Postdoc Research Fellow
 * 2013.11--2014.02, Auckland University of Technology, New Zealand. Visiting Scholar
-
-## News
-*  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
 
 ## Awards
 * 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
