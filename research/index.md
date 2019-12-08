@@ -4,7 +4,6 @@
 * Manifold Learning: learn nonlinear data structures of high dimensional data
 
 ## Projects & Funds
-
 #### Principal Investigator
  * Semi-Supervised Deep Learning Algorithms and Their Applications on Time Series Data Prediction, Natural Science Foundation Of China (NSFC) Young Scientists Fund
  * Research on Deep Spiking Neural Network Model and Applications for Spatio-Temporal Data Analysis, Natural Science Foundation of Shanghai
