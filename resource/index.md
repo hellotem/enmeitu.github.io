@@ -4,7 +4,7 @@ layout: default
 ## News
 *  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
 
-## Information of major AI related conferences
+## Major AI related conferences
 
 Conference Name  | Submission Deadline | Conference Date |Conference Location 
 ----------------- | -------------| -------------|-------------
