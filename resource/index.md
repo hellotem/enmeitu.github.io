@@ -7,7 +7,7 @@ layout: default
 ## Information of major AI related conferences
 
 Name | Submission Deadline | Conference Date |Conference Location 
------------- | -------------| -------------|-------------
+----------------- | -------------| -------------|-------------
 [AAAI-20](https://aaai.org/Conferences/AAAI-20/)| Sep 05, 2019| Feb 07-12, 2019| New York, USA
 [ICLR-20](https://iclr.cc/) | Sep 25,2019| Apr 26-30, 2020|Addis Ababa, ETHIOPIA 
 [IJCAI-20](http://www.ijcai20.org) | Jan 21, 2020|Jul 11-17, 2020|Yokohama, Japan
