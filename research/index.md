@@ -1,5 +1,5 @@
 ## Research Interests
-* Semi-Supervised Learning: training classifiers with an extremely small amount of labeled samples
+* Semi-Supervised Learning: training reliable classifiers with a handful labeled samples
 * Deep Learning: reducing training sample demand for deep neural networks
 * Manifold Learning: learning nonlinear data structures of high dimensional data
 
