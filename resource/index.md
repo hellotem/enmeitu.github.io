@@ -18,5 +18,5 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 [ACL-20](https://acl2020.org/)|Dec 09, 2019|Jul 5-10, 2020|Seattle, USA
 [ICCV-21](https://www.thecvf.com/?page_id=100)|Mar, 2021(TBD)|Oct, 2021 (TBD)|Montreal, Canada
 
-###### Updated on 01-Dec-2019 
+###### Updated on Dec 01, 2019 
 
