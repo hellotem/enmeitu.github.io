@@ -9,7 +9,7 @@ layout: default
 Conference Name  | Submission Deadline | Conference Date |Conference Location 
 ----------------- | -------------| -------------|-------------
 [AAAI-20](https://aaai.org/Conferences/AAAI-20/)| Sep 05, 2019| Feb 07-12, 2019| New York, USA
-[ICLR-20](https://iclr.cc/) | Sep 25,2019| Apr 26-30, 2020|Addis Ababa, ETHIOPIA 
+[ICLR-20](https://iclr.cc/) | Sep 25,2019| Apr 26-30, 2020|Addis Ababa, Ethiopia
 [IJCAI-20](http://www.ijcai20.org) | Jan 21, 2020|Jul 11-17, 2020|Yokohama, Japan
 [ICML-20](https://icml.cc/Conferences/2020)| Jan 30, 2020| Jul 12-18, 2020|Vienna, Austria
 [NeurIPS-20](https://nips.cc/Conferences/2020)| May 23, 2020 (TBD)| Dec 2-8, 2020|Vancouver, Canada
