@@ -4,7 +4,7 @@ layout: default
 ## News
 *  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
 
-## Conferences Dates
+## Information of major AI related conferences
 
 Name | Submission Deadline | Conference Location 
 ------------ | -------------| -------------
@@ -15,7 +15,8 @@ Name | Submission Deadline | Conference Location
 [NeurIPS-20](https://nips.cc/Conferences/2020)| 23-May-2020 (TBD)|Vancouver, Canada
 [CVPR-20](http://cvpr2020.thecvf.com/) | ~November 15, 2019~|Seattle, USA
 [ECCV-20](https://eccv2020.eu/)|05-March-2020|Glasgow, UK
+[ACL-20](https://acl2020.org/)|09-December-2019|Seattle, USA
 [ICCV-21](https://www.thecvf.com/?page_id=100)|1-Mar-2021(TBD)|Montreal, Canada
 
-###### Updated on 16-Aug-2019 
+###### Updated on 01-Dec-2019 
 
