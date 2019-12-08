@@ -35,6 +35,12 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * Machine Learning and Knowledge Discovery (undergraduate)
 * Intelligent Computational Theory and Applications (graduate)
 
+## Group member
+* Master Students: Zihao Wang, Xiao Han, Zhiqiang Xie, Fenchao Shen (MEM), Di Wu (MEM)
+* PRP students: Yuncheng Yang, Jinghang Peng
+* Undergraduates: Meng Zhou, Zhicheng Li, Yifan Wu, Ziliang Wang
+* FYP Students: Xiao Han, Fanbin Lu, Lei Wu (2018); Yifang Zhu, Haimiao Zhang, Xiang He (2019)
+
 ## Contact
 * Email: tuen#sjtu.edu.cn (replace # with @, e.g. _abc#sjtu.edu.cn_ means _abc@sjtu.edu.cn_)
 * Office: SEIEE 2-428, 800 Dongchuan Road, Shanghai, China
