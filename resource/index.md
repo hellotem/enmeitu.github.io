@@ -13,7 +13,7 @@ Name | Submission Deadline | Conference Location
 [IJCAI-20](http://www.ijcai20.org) | 21-Jan-2020|Yokohama, Japan
 [ICML-20](https://icml.cc/Conferences/2020)| 30-Jan-2020| Vienna, Austria
 [NeurIPS-20](https://nips.cc/Conferences/2020)| 23-May-2020 (TBD)|Vancouver, Canada
-[CVPR-20](http://cvpr2020.thecvf.com/) | ~November 15, 2019~|Seattle, USA
+[CVPR-20](http://cvpr2020.thecvf.com/) | ~~November 15, 2019~~|Seattle, USA
 [ECCV-20](https://eccv2020.eu/)|05-March-2020|Glasgow, UK
 [ACL-20](https://acl2020.org/)|09-December-2019|Seattle, USA
 [ICCV-21](https://www.thecvf.com/?page_id=100)|1-Mar-2021(TBD)|Montreal, Canada
