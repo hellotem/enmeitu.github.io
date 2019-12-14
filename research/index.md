@@ -5,7 +5,7 @@
      style="float: left; margin-right: 10px;" />
 * Deep Learning: reducing training sample demand for deep neural networks
 * Manifold Learning: learning nonlinear data structures of high dimensional data
-
+ 
 ## Projects & Funds
 #### Principal Investigator
  * Semi-Supervised Deep Learning Algorithms and Their Applications on Time Series Data Prediction, Natural Science Foundation Of China (NSFC) Young Scientists Fund
