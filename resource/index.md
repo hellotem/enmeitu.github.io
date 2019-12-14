@@ -16,7 +16,7 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 [CVPR-20](http://cvpr2020.thecvf.com/) | ~~Nov 15, 2019~~|Jun 14-19, 2020|Seattle, USA
 [ICCV-21](https://www.thecvf.com/?page_id=100)|Mar, 2021(TBD)|Oct, 2021 (TBD)|Montreal, Canada
 [ECCV-20](https://eccv2020.eu/)|Mar 05, 2020|Aug 23-28, 2020|Glasgow, UK
-[ACL-20](https://acl2020.org/)|Dec 09, 2019|Jul 5-10, 2020|Seattle, USA
+[ACL-20](https://acl2020.org/)|~~Dec 09, 2019~~|Jul 5-10, 2020|Seattle, USA
 
 
 ###### Updated on Dec 01, 2019 
