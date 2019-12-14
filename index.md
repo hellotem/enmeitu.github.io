@@ -14,16 +14,16 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Short Bio
 Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/), China in 2014. Thereafter, he had worked as a postdoc Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore, from January 2015 to December 2017. He has been a tenure-track Assistant Professor at SJTU from January 2018. His research interests are semi-supervised learning, manifold learning and neural information processing.
 
-## Education
-* 2010.09--2014.11, Shanghai Jiao Tong University, PhD
-* 2007.09--2010.07, University of Electronic Science and Technology of China, MEng
-* 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
-
 ## Working Experiences
 * 2018.01--Present, Shanghai Jiao Tong University, China. Assistant Professor 
 * 2015.08--2017.12, Nanyang Technological Univerity, Singapore. Research Fellow
 * 2014.12--2015.08, Auckland University of Technology, New Zealand. Postdoc Research Fellow
 * 2013.11--2014.02, Auckland University of Technology, New Zealand. Visiting Scholar
+
+## Education
+* 2010.09--2014.11, Shanghai Jiao Tong University, PhD
+* 2007.09--2010.07, University of Electronic Science and Technology of China, MEng
+* 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
 
 ## Awards
 * 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
