@@ -33,7 +33,7 @@ Rank | University Name | Location | Province
 9	|Sun Yat-Sen University	|Guangzhou | Guangdong
 10	|Harbin Institute of Technology	|Harbin | Heilongjiang
 
-## [Map of China](https://www.chinadiscovery.com/china-maps/china-provincial-map.html)
+ ### [Map of China](https://www.chinadiscovery.com/china-maps/china-provincial-map.html)
 
 
 
