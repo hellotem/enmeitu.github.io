@@ -18,6 +18,21 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 [ECCV-20](https://eccv2020.eu/)|Mar 05, 2020|Aug 23-28, 2020|Glasgow, UK
 [ACL-20](https://acl2020.org/)|~~Dec 09, 2019~~|Jul 5-10, 2020|Seattle, USA
 
+## Best Universities Ranking in China ([full list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
+Rank | University | Score
+-----|------------|---------
+1	|Tsinghua University |	94.6
+2	|Peking University	|76.5
+3	|Zhejiang University	|72.9
+4	|Shanghai Jiao Tong University|	72.1
+5	|Fudan University	|65.6
+6	|University of Science and Technology of China|	60.9
+7	|Huazhong University of Science and Technology|	58.9
+7	|Nanjing University	|58.9
+9	|Sun Yat-Sen University	|58.2
+10	|Harbin Institute of Technology	|56.7
+
+
 
 ###### Updated on Dec 01, 2019 
 
