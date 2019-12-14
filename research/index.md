@@ -1,6 +1,6 @@
 ## Research Interests
 * Semi-Supervised Learning: training reliable classifiers with a handful labeled samples
-<img src="ssl3.png"
+<img src="ssl4.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 * Deep Learning: reducing training sample demand for deep neural networks
