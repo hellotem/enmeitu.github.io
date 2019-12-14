@@ -3,8 +3,9 @@
 <img src="ssl5.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-* Deep Learning: reducing training sample demand for deep neural networks
-* Manifold Learning: learning nonlinear data structures of high dimensional data
+* Nonlinear Manifold Learning: learning nonlinear data structures of high dimensional data
+* Brain-Inspired Learning: training deep spiking neural networks to perform complex recognition tasks
+
  
 ## Projects & Funds
 #### Principal Investigator
