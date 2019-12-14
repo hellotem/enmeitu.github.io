@@ -1,6 +1,9 @@
 ## Research Interests
 * Semi-Supervised Learning: training reliable classifiers with a handful labeled samples
 ![alt text](https://github.com/hellotem/hellotem.github.io/edit/master/research/SSL.PNG "Semi-Supervised Learning")
+<img src="SSL.PNG"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 * Deep Learning: reducing training sample demand for deep neural networks
 * Manifold Learning: learning nonlinear data structures of high dimensional data
 
