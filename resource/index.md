@@ -30,7 +30,7 @@ Rank | University | Score
 7	|Huazhong University of Science and Technology|	58.9
 7	|Nanjing University	|58.9
 9	|Sun Yat-Sen University	|58.2
-10	|Harbin Institute of Technology	|56.7
+10	|Harbin Institute of Technology	|56.7 
 
 
 
