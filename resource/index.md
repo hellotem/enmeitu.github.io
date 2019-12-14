@@ -20,18 +20,20 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 
 ## Best universities ranking in China ([full list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
 
-Rank | University Name | Location
------ | ------------ | ---------
-1	|Tsinghua University |	Beijing
-2	|Peking University	|Beijing
-3	|Zhejiang University	|Hangzhou
-4	|Shanghai Jiao Tong University|	Shanghai
-5	|Fudan University	|Shanghai
-6	|University of Science and Technology of China|	Hefei
-7	|Huazhong University of Science and Technology|	Wuhan
-7	|Nanjing University	|Nanjing
-9	|Sun Yat-Sen University	|Guangzhou
-10	|Harbin Institute of Technology	|Harbin
+Rank | University Name | Location | Province
+----- | ------------ | --------- | ----------
+1	|Tsinghua University |	Beijing | Beijing
+2	|Peking University	|Beijing | Beijing
+3	|Zhejiang University	|Hangzhou | Zhejiang
+4	|Shanghai Jiao Tong University|	Shanghai | Shanghai
+5	|Fudan University	|Shanghai | Shanghai
+6	|University of Science and Technology of China|	Hefei |Anhui
+7	|Huazhong University of Science and Technology|	Wuhan | Hubei
+7	|Nanjing University	|Nanjing | Jiangsu
+9	|Sun Yat-Sen University	|Guangzhou | Guangdong
+10	|Harbin Institute of Technology	|Harbin | Heilongjiang
+
+[Map of China](https://www.chinadiscovery.com/china-maps/china-provincial-map.html)
 
 
 
