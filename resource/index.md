@@ -19,8 +19,9 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 [ACL-20](https://acl2020.org/)|~~Dec 09, 2019~~|Jul 5-10, 2020|Seattle, USA
 
 ## Best Universities Ranking in China ([full list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
+
 Rank | University | Score
------|------------|---------
+----- | ------------ | ---------
 1	|Tsinghua University |	94.6
 2	|Peking University	|76.5
 3	|Zhejiang University	|72.9
@@ -34,5 +35,5 @@ Rank | University | Score
 
 
 
-###### Updated on Dec 01, 2019 
+###### Updated on Dec 14, 2019 
 
