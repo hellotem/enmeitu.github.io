@@ -4,7 +4,7 @@
 
 <div style="text-align:center"><img src="ssl5.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 
-* Cognition-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. We explore the learning rules shared across human brain, deep learning and spiking neural network.
+* Cognition-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. We explore the learning rules shared across human brain, deep learning and spiking neural networks.
 
 <div style="text-align:center"><img src="BIAI2.jpg" alt="Markdown Monster icon" align="center" width="500"/></div>
  
