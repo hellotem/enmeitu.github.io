@@ -3,9 +3,7 @@
 <img src="ssl5.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-* Nonlinear Manifold Learning: learning nonlinear data structures of high dimensional data
-* Brain-Inspired Learning: training deep spiking neural networks to perform complex recognition tasks
-
+* Cognition-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems
  
 ## Projects & Funds
 #### Principal Investigator
