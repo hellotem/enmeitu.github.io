@@ -18,7 +18,7 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 [ECCV-20](https://eccv2020.eu/)|Mar 05, 2020|Aug 23-28, 2020|Glasgow, UK
 [ACL-20](https://acl2020.org/)|~~Dec 09, 2019~~|Jul 5-10, 2020|Seattle, USA
 
-## Best universities in China ([full ranking list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
+## Best universities in China ([full ARWU ranking list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
 
 Rank | University Name | Location | Province
 ----- | ------------ | --------- | ----------
@@ -33,7 +33,7 @@ Rank | University Name | Location | Province
 9	|Sun Yat-Sen University	|Guangzhou | Guangdong
 10	|Harbin Institute of Technology	|Harbin | Heilongjiang
 
- #### [Map of China](https://www.chinadiscovery.com/china-maps/china-provincial-map.html)
+ #### Here is the [Map of China](https://www.chinadiscovery.com/china-maps/china-provincial-map.html)
 
 
 
