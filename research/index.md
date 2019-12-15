@@ -2,11 +2,11 @@
 
 * Semi-Supervised Learning: training classifiers (shallow or deep models) with a small amount of labeled samples.
 
-<img src="ssl5.png" alt="Markdown Monster icon" align="center" width="500" />
- 
+<div style="text-align:center"><img src="ssl5.png" alt="Markdown Monster icon" align="center" width="500" /></div>
+
 * Cognition-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. We explore the learning rules shared among human brain, deep learning and spiking neural network.
 
-<img src="BIAI2.jpg" alt="Markdown Monster icon" align="center" width="500"/>
+<div style="text-align:center"><img src="BIAI2.jpg" alt="Markdown Monster icon" align="center" width="500"/></div>
  
 ## Projects & Funds
 #### Principal Investigator
