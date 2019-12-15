@@ -1,5 +1,5 @@
 ## Research Interests
-* Semi-Supervised Learning: training classifiers (shallow or deep models) with a small amount of labeled samples
+* Semi-Supervised Learning: training classifiers (shallow or deep models) with a small amount of labeled samples.
 <img src="ssl5.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
