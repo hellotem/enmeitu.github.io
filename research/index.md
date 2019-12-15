@@ -6,7 +6,7 @@
 
 * Cognition-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. We explore the learning rules shared across human brain, deep learning and spiking neural networks.
 
-<div style="text-align:center"><img src="biai3.jpg" alt="Markdown Monster icon" align="center" width="500"/></div> 
+<div style="text-align:center"><img src="biai4.jpg" alt="Markdown Monster icon" align="center" width="500"/></div> 
  
 ## Projects & Funds
 #### Principal Investigator/Co-Investigator
