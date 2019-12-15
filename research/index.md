@@ -4,6 +4,9 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 * Cognition-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems
+<img src="BIAI.PNG"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
  
 ## Projects & Funds
 #### Principal Investigator
