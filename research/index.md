@@ -3,6 +3,7 @@
 <div>
 <img src="ssl5.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="500"/>
  </div>
+ 
 * Cognition-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. We explore the learning rules shared among human brain, deep learning and spiking neural network.
 <div>
 <img src="BIAI2.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" width="500"/>
