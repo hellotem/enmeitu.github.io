@@ -2,7 +2,7 @@
 
 * Semi-Supervised Learning: training classifiers (shallow or deep models) with a small amount of labeled samples.
 
-<div style="text-align:center"><img src="ssl5.png" alt="Markdown Monster icon" align="center" width="500" /></div>
+<div style="text-align:center"><img src="ssl6.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 
 * Brain-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. We explore the learning rules shared across the human brain, deep learning and spiking neural networks.
 
