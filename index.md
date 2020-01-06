@@ -32,15 +32,16 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * Best Paper Award for 2016 of the journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
 
 ## Teaching
-* AU331: Machine Learning and Knowledge Discovery, Undergraduate
-* AU28004: Intelligent Computational Theory and Applications, Graduate
+* AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
+* AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
 * Programming Practices of Artificial Intelligence (2020), Undergraduate
 
 ## Group Member
-* Master students: Zihao Wang, Xiao Han, Zhiqiang Xie, Fenchao Shen (MEM), Di Wu (MEM)
-* PRP students: Yuncheng Yang, Jinghang Peng
-* Undergraduates: Meng Zhou, Zhicheng Li, Yifan Wu, Ziliang Wang
-* FYP students: Xiao Han, Fanbin Lu, Lei Wu (2018); Yifang Zhu, Haimiao Zhang, Xiang He (2019)
+* Master of Enginnering (MEng): Zihao Wang (2018), Xiao Han (2019), Zhiqiang Xie (2019)
+* Master of Engineering Management (MEM): Fenchao Shen (2018), Di Wu (2018), Ke Wu (2019), Xin Chen (2019), Houran Xia (2019)
+* Final Year Project (FYP): Xiao Han, Fanbin Lu, Lei Wu (2018); Yifang Zhu, Haimiao Zhang, Xiang He (2019)
+* Participation in Research Program (PRP): Yuncheng Yang, Jinghang Peng
+* Undergraduates R&D Projects: Meng Zhou, Zhicheng Li, Yifan Wu, Ziliang Wang
 
 ## Contact
 * Email: tuen#sjtu.edu.cn (replace # with @, e.g. _abc#sjtu.edu.cn_ means _abc@sjtu.edu.cn_)
