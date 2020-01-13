@@ -36,9 +36,9 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
 * AI006:  Practices of Artificial Intelligence (2020), Undergraduate
 
-## Group Members
+## Current Students 
 * Master of Enginnering (MEng): Zihao Wang (2018), Xiao Han (2019), Zhiqiang Xie (2019)
-* Master of Engineering Management (MEM): Fenchao Shen (2018), Di Wu (2018), Ke Wu (2019), Xin Chen (2019), Houran Xia (2019)
+* Master students of Engineering Management (MEM): Fenchao Shen (2018), Di Wu (2018), Ke Wu (2019), Xin Chen (2019), Houran Xia (2019)
 * Final Year Project (FYP): Xiao Han (2018), Fanbin Lu (2018), Lei Wu (2018); Yifang Zhu (2019), Haimiao Zhang (2019), Xiang He (2019)
 * Participation in Research Program (PRP): Yuncheng Yang (2019), Jinghang Peng (2019)
 * Undergraduates R&D Projects: Meng Zhou (2018), Zhicheng Li (2018), Yifan Wu (2018), Ziliang Wang (2019)
