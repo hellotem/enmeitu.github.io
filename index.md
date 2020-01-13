@@ -32,8 +32,8 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * Best Paper Award for 2016 of the journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
 
 ## Teaching
-* AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
 * AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
+* AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
 * AI006:  Practices of Artificial Intelligence (2020), Undergraduate
 
 ## Group Members
