@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-## News
-*  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research"
+## Anouncement
+*  For SJTU students who want to participate researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research".
+* I am very happy to write a recommandation letter for students who attend my classes or take part into research activities in our lab. Please send me a copy of your transcript and CV (if you have one). 
 
 ## Major AI related conferences
 
