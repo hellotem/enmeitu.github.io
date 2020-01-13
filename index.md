@@ -34,7 +34,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 ## Teaching
 * AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
 * AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
-* Programming Practices of Artificial Intelligence (2020), Undergraduate
+* AI006:  Practices of Artificial Intelligence (2020), Undergraduate
 
 ## Group Members
 * Master of Enginnering (MEng): Zihao Wang (2018), Xiao Han (2019), Zhiqiang Xie (2019)
