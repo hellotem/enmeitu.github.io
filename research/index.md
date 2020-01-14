@@ -1,10 +1,10 @@
 ## Research Interests
 
-* Semi-Supervised Learning: manually labeled samples usually are expensive and scarce.  How can we train classifiers (shallow or deep models) using a small amount of labeled samples and aboundant unlabeled samples?
+* Semi-Supervised Learning: manually labeled samples usually are expensive and scarce.  It is economical to train classifiers (shallow or deep models) using a small amount of labeled samples and aboundant unlabeled samples.
 
 <div style="text-align:center"><img src="ssl7.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 
-* Generic Neural Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. It is interesting to explore the underlying learning rules shared between biological and artificial neural networks?
+* Generic Neural Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. It is interesting to explore the underlying learning rules shared between biological and artificial neural networks.
 
 <div style="text-align:center"><img src="biai4.jpg" alt="Markdown Monster icon" align="center" width="500"/></div> 
  
