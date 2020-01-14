@@ -1,6 +1,6 @@
 ## Research Interests
 
-* Semi-Supervised Learning: training classifiers (shallow or deep models) with a small amount of labeled samples and aboundant unlabeled samples.
+* Semi-Supervised Learning: manually labeled samples usually are expensive and scarce.  How can we train classifiers (shallow or deep models) using a small amount of labeled samples and aboundant unlabeled samples?
 
 <div style="text-align:center"><img src="ssl7.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 
