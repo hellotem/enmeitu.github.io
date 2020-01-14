@@ -1,10 +1,10 @@
 ## Research Interests
 
-* Semi-Supervised Learning: training classifiers (shallow or deep models) with a small amount of labeled samples.
+* Semi-Supervised Learning: training classifiers (shallow or deep models) with a small amount of labeled samples and aboundant unlabeled samples.
 
 <div style="text-align:center"><img src="ssl7.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 
-* Brain-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. We explore the learning rules shared across the human brain, deep learning and spiking neural networks.
+* Brain-Inspired Learning: understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. What is the underlying learning rules shared across the human brain, deep learning and spiking neural networks?
 
 <div style="text-align:center"><img src="biai4.jpg" alt="Markdown Monster icon" align="center" width="500"/></div> 
  
