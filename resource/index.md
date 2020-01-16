@@ -9,7 +9,7 @@ layout: default
 
 Conference Name  | Submission Deadline | Conference Date |Conference Location 
 ----------------- | -------------| -------------|-------------
-[IJCAI-20](http://www.ijcai20.org) | Jan 15, 2020|Jul 11-17, 2020|Yokohama, Japan
+[IJCAI-20](http://www.ijcai20.org) | Jan 21, 2020|Jul 11-17, 2020|Yokohama, Japan
 [ICML-20](https://icml.cc/Conferences/2020)| Jan 30, 2020| Jul 12-18, 2020|Vienna, Austria
 [ECCV-20](https://eccv2020.eu/)|Mar 05, 2020|Aug 23-28, 2020|Glasgow, UK
 [NeurIPS-20](https://nips.cc/Conferences/2020)| May 23, 2020 (TBD)| Dec 2-8, 2020|Vancouver, Canada
