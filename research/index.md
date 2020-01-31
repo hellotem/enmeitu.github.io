@@ -4,7 +4,7 @@
 
 <div style="text-align:center"><img src="ssl7.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 
-* **Neural Networks:** understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. It is interesting to explore the foundamental neural learning rules shared across biological and artificial intelligence.
+* **Deep Neural Networks:** understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. It is interesting to explore the foundamental neural learning rules shared across biological and artificial intelligence.
 
 <div style="text-align:center"><img src="biai4.jpg" alt="Markdown Monster icon" align="center" width="500"/></div> 
  
