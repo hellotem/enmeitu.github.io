@@ -15,10 +15,11 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 [SIGKDD-20](https://www.kdd.org/kdd2020/#!) | ~~Feb 13, 2020~~ | Aug 22, 2020 | San Diego, CA, USA
 [ICML-20](https://icml.cc/Conferences/2020)| ~~Jan 30, 2020~~| Jul 12-18, 2020|Vienna, Austria
 [IJCAI-20](http://www.ijcai20.org) | ~~Jan 21, 2020~~|Jul 11-17, 2020|Yokohama, Japan
-[AAAI-20](https://aaai.org/Conferences/AAAI-20/)| ~~Sep 05, 2019~~| Feb 07-12, 2020| New York, USA
-[ICLR-20](https://iclr.cc/) | ~~Sep 25,2019~~| Apr 26-30, 2020|Addis Ababa, Ethiopia
-[CVPR-20](http://cvpr2020.thecvf.com/) | ~~Nov 15, 2019~~|Jun 14-19, 2020|Seattle, USA
 [ACL-20](https://acl2020.org/)|~~Dec 09, 2019~~|Jul 5-10, 2020|Seattle, USA
+[CVPR-20](http://cvpr2020.thecvf.com/) | ~~Nov 15, 2019~~|Jun 14-19, 2020|Seattle, USA
+[ICLR-20](https://iclr.cc/) | ~~Sep 25,2019~~| Apr 26-30, 2020|Addis Ababa, Ethiopia
+[AAAI-20](https://aaai.org/Conferences/AAAI-20/)| ~~Sep 05, 2019~~| Feb 07-12, 2020| New York, USA
+
 
 ## Best universities in China ([full ARWU ranking list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
 
