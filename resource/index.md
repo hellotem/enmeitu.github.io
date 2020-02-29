@@ -10,7 +10,7 @@ layout: default
 Conference Name  | Submission Deadline | Conference Date |Conference Location 
 ----------------- | -------------| -------------|-------------
 [ECCV-20](https://eccv2020.eu/)|Mar 05, 2020|Aug 23-28, 2020|Glasgow, UK
-[NeurIPS-20](https://nips.cc/Conferences/2020)| May 23, 2020 (TBD)| Dec 2-8, 2020|Vancouver, Canada
+[NeurIPS-20](https://nips.cc/Conferences/2020)| May 05, 2020 (abstract)| Dec 2-8, 2020|Vancouver, Canada
 [ICCV-21](https://www.thecvf.com/?page_id=100)|Mar, 2021(TBD)|Oct, 2021 (TBD)|Montreal, Canada
 [ICML-20](https://icml.cc/Conferences/2020)| ~~Jan 30, 2020~~| Jul 12-18, 2020|Vienna, Austria
 [IJCAI-20](http://www.ijcai20.org) | ~~Jan 21, 2020~~|Jul 11-17, 2020|Yokohama, Japan
