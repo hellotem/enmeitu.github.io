@@ -1,8 +1,12 @@
  # Here are some useful commands and tips for a new user to the Linux system
- * List files in current folder: ls -option: 
- '''
- a code
- '''
+ * List hardware information: lshw -short -c device, for example,
+   - CPU: lshw -short -c processor
+   - Hard Drive: lshw -short -c disk
+ * List contents of a folder: ls -option file/folder: 
+   - show permission of items in current folder: ls -l
+   - show file size: ls -lh
+   
+ 
  ; step into a folder: cd folder; see the size of a file/folder: du -sh file/folder
  * Transfer files from windows to your server folder: a) install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); b) start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/  (replace pscp with scp if your local computer is Ubuntu or Mac)
   * Run your python algorithm: a) activate base environment by: conda activate base; b)step into the folder containing your algorithm coder; c) run your algorithm by: python main.py
