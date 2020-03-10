@@ -25,7 +25,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
    - For both commands, add -i option to show confirmation for existing file replacement
    - For both commands, add -R option to for whole folder copy/move
   * Download a file from the Internet: wget http://www.xyz.com/file
-  * Show CPU/RAM usage of each process: top (press q to exit)
+  * Show CPU and RAM usage of each process: top (press shift+i to show percentage; press q to exit)
   * Show network flow: iftop (q to exit)
   * Show disk space: df -Th
   * Install/uninstall a application: sudo apt install/remove appname
