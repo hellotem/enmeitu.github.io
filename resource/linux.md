@@ -34,7 +34,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
 * Connect to your remote sever: 
   - a) Install openssh on your server and start it;
   - b) Check your server IP by *ip -a* and write it down;
-  - c) Open terminal in you local machine and input the command: ssh username@ip, Enter and input your password. 
+  - c) Open a terminal in you local machine and input the command: ssh username@ip, Enter and input your password. 
 * Transfer files from local windows to remote server: 
   - a) Install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); 
   - b) Start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/  
