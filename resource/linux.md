@@ -30,8 +30,9 @@ Switching from Windows to Linux, especially to the command terminal in a local o
 
 # Tips for operating a sever remotely
 * Connect to your remote sever: 
-  - a) Install openssh on your server and start it 
-  - b) Open terminal in you local machine and input the command: ssh username@ip, Enter and input your password. 
+  - a) Install openssh on your server and start it;
+  - b) Check your server IP by *ip -a* and write it down;
+  - c) Open terminal in you local machine and input the command: ssh username@ip, Enter and input your password. 
 * Transfer files from local windows to remote server: 
   - a) Install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); 
   - b) Start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/  
@@ -51,4 +52,6 @@ Switching from Windows to Linux, especially to the command terminal in a local o
  - c) Run the algorithm and the execution will stop at the break point. You can check variable value using print and other techniques;
  - d) Input n for one step execution; c for continue running; q to terminate debug process
  - e) To quit vim and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter"
+ 
+**Finally, you are welcome to contact me if you have any question.
 
