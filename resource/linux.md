@@ -1,5 +1,7 @@
+# Some information for new Linux users
+
 Switching from Windows to Linux, especially to the command terminal in a local or remote server, is propabily a painful experience for most people! But as long as you get familiar with some basic commands and skills, you'll find that Linux is actually easy to deal with and efficient for productivity.  Here I summarize some useful commands and tips that are frequently used in Ubuntu Linux. Hopefully, they could help you to quickly adapt to the new interaction method:
-# Frequent commands for basic operations
+## Frequent commands for basic operations
  * List hardware information: lshw -short -c device, for example,
    - CPU: lshw -short -c processor
    - Hard Drive: lshw -short -c disk
@@ -28,7 +30,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
   * Show disk space: df -Th
   * Install/uninstall a application: sudo apt install/remove appname
 
-# Tips for operating a sever remotely
+## Tips for operating a sever remotely
 * Connect to your remote sever: 
   - a) Install openssh on your server and start it;
   - b) Check your server IP by *ip -a* and write it down;
@@ -39,7 +41,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
   - c) Replace pscp with scp if your local computer is Ubuntu or Mac
 ** Most data and code could be downloaded from internet, so you don't have to transfer everything from you local computer.    You can download them by the command: wget http://xyz.com/file or git clone https://github.com/xyz/myrepo.git
   
-# Skills for machine learning practioners to running codes on a remote server
+## Skills for machine learning practioners to running codes on a remote server
 * Run your python algorithm: 
   - a) Activate your conda environment by: conda activate base; 
   - b) Step into the folder containing your algorithm coder; 
