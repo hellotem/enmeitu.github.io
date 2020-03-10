@@ -1,6 +1,7 @@
 # Some information for new Linux users
 
-Switching from Windows to Linux, especially to the command terminal in a local or remote server, is propabily a painful experience for most people! But as long as you get familiar with some basic commands and skills, you'll find that Linux is actually easy to deal with and efficient for productivity.  Here I summarize some useful commands and tricks that are frequently used in Ubuntu Linux. Hopefully, they could help you to quickly adapt to the new interaction method:
+Switching from Windows to Linux, especially to the command terminal in a local or remote server, is propabily a painful experience for most people! But as long as you get familiar with some basic commands and skills, you'll find that Linux is actually easy to deal with and efficient for productivity.  Here I summarize some useful commands and tricks that are frequently used in Ubuntu Linux. Hopefully, they could help you to quickly adapt to the new interaction method.
+<div style="text-align:center"><img src="111.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 ## Frequent commands for basic operations
  * List hardware information: lshw -short -c device, for example,
    - CPU: lshw -short -c processor
