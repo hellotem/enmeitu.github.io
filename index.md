@@ -31,6 +31,29 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at NTU
 * Best Paper Award for year 2016 of the premier journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
 
+## Professional Services
+* PC Member of: 
+  - 13th Int. Conf. on Neuro-Computing & Evolving Intelligence (NCEI15)
+  - International Cybersecurity Data Mining Competition (CDMC2015)
+  - InternationalWorkshop on Data Mining for Cybersecurity (DMC2015);
+  - Chair of Session WM4: ELM in Prediction, The 7th International Conference on Extreme Learning Machines (ELM2016)
+  - The International Conference on Computer Vision & Image Processing (CVIP2017)
+  - International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)
+  - 26th International Conference on Neural Information Processing (ICONIP2019)
+  - The 29th International Joint Conference on Artificial Intelligence (IJCAI2020)
+* Reviewer of (part of): 
+  - IEEE Transactions on Knowledge and Data Engineering
+  - IEEE Transactions on Neural Networks and Learning Systems
+  - IEEE Transactions on Industrial Informatics
+  - Multimedia Tools and Applications
+  - International Journal of Computational Intelligence Systems
+  - The Thirty-First AAAI Conference on Artificial Intelligence
+  - IEEE Transactions on Big Data
+  - IEEE Communications Magazine
+  - Neurocomputing
+  - Neural Networks
+  - IEEE Transactions on Signal Processing
+
 ## Teaching
 * AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
 * AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
