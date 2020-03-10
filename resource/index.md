@@ -38,7 +38,7 @@ Rank | University Name | Location | Province
 
 #### Here is a [Map of China](https://www.chinadiscovery.com/china-maps/china-provincial-map.html) and a good [overview of China](https://www.chinadiscovery.com/travel-guide/facts.html)
 
-## Useful commands/skills for a new Linuxer [here](linux.md)
+## Useful commands and skills for a new Linuxer [here](linux.md)
  
 
 ###### Updated on Mar 9, 2020
