@@ -39,7 +39,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
   - a) Install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); 
   - b) Start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/  
   - c) Replace pscp with scp if your local computer is Ubuntu or Mac
-** Most data and code could be downloaded from internet, so you don't have to transfer everything from you local computer.    You can download them by the command: wget http://xyz.com/file or git clone https://github.com/xyz/myrepo.git
+* Most data and code could be downloaded from internet, so you don't have to transfer everything from you local computer.    You can download them by the command: _wget http://xyz.com/file_ or _git clone https://github.com/xyz/myrepo.git_
   
 ## Skills for machine learning practioners to running codes on a remote server
 * Run your python algorithm: 
@@ -55,5 +55,5 @@ Switching from Windows to Linux, especially to the command terminal in a local o
  - d) Input n for one step execution; c for continue running; q to terminate debug process
  - e) To quit vim and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter"
  
-**Finally, you are welcome to contact me if you have any question.
+**Finally, you are welcome to contact me if you have any question.**
 
