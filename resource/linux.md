@@ -43,7 +43,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
   - a) Download a file: wget http://xyz.com/file 
   - b) Clone a git repository: git clone https://github.com/xyz/myrepo.git
   
-## Skills for machine learning practioners to running codes on a remote server
+## Skills to run/debug python codes on a remote server
 * Run your python algorithm: 
   - a) Activate your conda environment by: conda activate base; 
   - b) Step into the folder containing your algorithm coder; 
