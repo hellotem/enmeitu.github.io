@@ -3,6 +3,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
  * List hardware information: lshw -short -c device, for example,
    - CPU: lshw -short -c processor
    - Hard Drive: lshw -short -c disk
+   - Similarly, -c memory, -c display, -class network
  * Step into a folder: cd folder
    - Parental folder: cd ..
    - Your home folder: cd ~ 
