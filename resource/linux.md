@@ -4,32 +4,32 @@ Switching from Windows to Linux, especially to the command terminal in a local o
 <div style="text-align:center"><img src="111.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 ## Frequent commands for basic operations
  * List hardware information: lshw -short -c device, for example,
-   - CPU: _lshw -short -c processor_
-   - Hard Drive: _lshw -short -c disk_
+   - CPU: lshw -short -c processor
+   - Hard Drive: lshw -short -c disk
    - Similarly, -c memory, -c display, -class network
-   - devices could be combined to show together, e.g. _lshw -short -c processor -c memory_
+   - devices could be combined to show together, e.g. lshw -short -c processor -c memory
  * Step into a folder: cd folder
-   - Parental folder: _cd .._
-   - Your home folder: _cd ~ _
-   - Root folder: _cd /_
-   - Show where am I: _pwd_
+   - Parental folder: cd ..
+   - Your home folder: cd ~ 
+   - Root folder: cd /
+   - Show where am I: pwd
  * List contents of a folder: ls -option folder: 
-   - Show permission of items in current folder: _ls -l_
-   - Show file size in human readable unit (KB, MB, GB): _ls -lh_
-   - Sort files according to size: _ls -lS_
- * Show size of a folder or file: _du -sh file/folder_
+   - Show permission of items in current folder: ls -l
+   - Show file size in human readable unit (KB, MB, GB): ls -lh
+   - Sort files according to size: ls -lS
+ * Show size of a folder or file: du -sh file/folder
  * Create/Delete a file/folder: 
-   - Create a folder: _sudo mkdir foldername_
-   - Remove a file/folder: _sudo rm -rf filename/foldername_
+   - Create a folder: sudo mkdir foldername
+   - Remove a file/folder: sudo rm -rf filename/foldername
  * Copy/move a file/folder to another place: cp/mv -options src dest 
-   - Copy file to current folder: _cp /foler/file ._
-   - Move file in current folder to other folder: _mv file folder_
+   - Copy file to current folder: cp /foler/file .
+   - Move file in current folder to other folder: mv file folder
    - For both commands, add -i option to show confirmation for existing file replacement
    - For both commands, add -R option for whole folder copy/move
   * Download a file from the Internet: wget http://www.xyz.com/file
-  * Show CPU and RAM usage of each process: _top_ (press shift+i to show percentage; press q to exit)
-  * Show network flow: _iftop_ (q to exit)
-  * Show disk space: _df -Th_
+  * Show CPU and RAM usage of each process: top (press shift+i to show percentage; press q to exit)
+  * Show network flow: iftop (q to exit)
+  * Show disk space: df -Th
   * Install/uninstall a application: sudo apt install/remove appname
 
 ## Tips for operating a sever remotely
@@ -40,11 +40,11 @@ Switching from Windows to Linux, especially to the command terminal in a local o
   - d) If login correctly, you should see the command prompt in the format _username@servername:~$_
 * Transfer files from local windows to remote server: 
   - a) Install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); 
-  - b) Start transferring: _pscp "D:\myfile.xyz" accountname@202.120.37.176:~/_;
+  - b) Start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/;
   - c) Replace pscp with scp if your local computer is Ubuntu or Mac
 * Most data and code could be downloaded from the Internet, so you really don't have to transfer everything from you local computer to a remote server. Instead, you can obtain them by the command: 
-  - a) Download a file: _wget http://xyz.com/file _
-  - b) Clone a git repository: _git clone https://github.com/xyz/myrepo.git _
+  - a) Download a file: wget http://xyz.com/file 
+  - b) Clone a git repository: git clone https://github.com/xyz/myrepo.git 
   
 ## Run/debug Python code on a remote server
 * Run your python algorithm: 
@@ -54,7 +54,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
 * If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on internet).
 * Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check GPU ocupation (right most column: 0% means free; otherwise busy); use "top" to check CPU usage.
 * To debug your code remotely:
-  - a) Open your source file with vi/vim by: _vi file.py_;
+  - a) Open your source file with vi/vim by: vi file.py;
   - b) Set a break point by pdb.set_trace() (import the pdb package in your code file)
   - c) Run the algorithm and the execution will stop at the break point;
   - d) You can check variable value using print and other techniques;
