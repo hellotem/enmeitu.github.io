@@ -35,8 +35,8 @@ Switching from Windows to Linux, especially to the command terminal in a local o
 * Connect to your remote sever: 
   - a) Install openssh on your server and start it;
   - b) Check your server IP by *ip -a* and write it down;
-  - c) Open a terminal in you local machine and input the command: ssh username@ip, press _Enter_ and input your password. 
-  - d) If login correctly, you should see the command prompt _username@servername:~$_
+  - c) Open a terminal in you local machine and input the command: _ssh username@ip_, press _Enter_ and input your password. 
+  - d) If login correctly, you should see the command prompt in the format _username@servername:~$_
 * Transfer files from local windows to remote server: 
   - a) Install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); 
   - b) Start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/  
@@ -51,7 +51,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
   - b) Step into the folder containing your algorithm code; 
   - c) Run your algorithm by: python main.py
 * If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on internet).
-* Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check if both GPU are occupied by others (right most column: 0% means free; otherwise busy); use "top" to check CPU usage.
+* Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check GPU ocupation (right most column: 0% means free; otherwise busy); use "top" to check CPU usage.
 * To debug your code remotely:
   - a) Open your source file with vi/vim by: vi file.py; 
   - b) Set a break point by pdb.set_trace() (import the pdb package in your code file)
