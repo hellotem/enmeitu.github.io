@@ -29,13 +29,26 @@ Switching from Windows to Linux, especially to the command terminal in a local o
   * Install/uninstall a application: sudo apt install/remove appname
 
 # Tips for operating a sever remotely
- * Transfer files from windows to your server folder: a) install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); b) start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/  (replace pscp with scp if your local computer is Ubuntu or Mac)
-  * Run your python algorithm: a) activate base environment by: conda activate base; b)step into the folder containing your algorithm coder; c) run your algorithm by: python main.py
-  * The base conda environment has installed tensorflow-gpu 2.1 and pytorch 1.4 (gpu enabled). If you need to use other version tensorflow or pytorch, you can tell me to install for you; or, alternatively, you can also install by yourself: a) create an environment in conda by: conda create --name myenv; b) conda activate myenv; c) conda install mypackage -y
-  * Most data and code could be downloaded from internet, so you don't have to transfer everything from you local computer. You can download them by the command: wget http://xyz.com/file or git clone https://github.com/xyz/myrepo.git
-  * If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on internet).
-  * Before running your algorithm, use "nvidia-smi" to check if both GPU are occupied by others (right most column: 0% means free; otherwise busy).
-  * To quit this vim file and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter"
+* Connect to your remote sever: 
+  - a) Install openssh on your server and start it 
+  - b) Open terminal in you local machine and input the command: ssh username@ip, Enter and input your password. 
+* Transfer files from local windows to remote server: 
+  - a) Install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); 
+  - b) Start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/  
+  - c) Replace pscp with scp if your local computer is Ubuntu or Mac
+** Most data and code could be downloaded from internet, so you don't have to transfer everything from you local computer.    You can download them by the command: wget http://xyz.com/file or git clone https://github.com/xyz/myrepo.git
   
-# Skills for machine learners
+# Skills for machine learning practioners to running codes on a remote server
+* Run your python algorithm: 
+  - a) Activate your conda environment by: conda activate base; 
+  - b) Step into the folder containing your algorithm coder; 
+  - c) Run your algorithm by: python main.py
+* If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on internet).
+* Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check if both GPU are occupied by others (right most column: 0% means free; otherwise busy).
+* To debug your code remotely:
+ - a) Open your source file with vi/vim by: vi file.py; 
+ - b) Set a break point by pdb.set_trace() (import the pdb package in your code file)
+ - c) Run the algorithm and the execution will stop at the break point. You can check variable value using print and other techniques;
+ - d) Input n for one step execution; c for continue running; q to terminate debug process
+ - e) To quit vim and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter"
 
