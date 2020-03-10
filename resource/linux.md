@@ -58,5 +58,5 @@ Switching from Windows to Linux, especially to the command terminal in a local o
  - e) Input n for one step execution; c for continue running; q to terminate debug process
  - f) To quit vim and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter"
  
-**Finally, you are welcome to contact me if you have any question.**
+Finally, you are welcome to contact me if you have any question.
 
