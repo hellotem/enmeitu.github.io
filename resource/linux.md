@@ -51,12 +51,12 @@ Switching from Windows to Linux, especially to the command terminal in a local o
 * If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on internet).
 * Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check if both GPU are occupied by others (right most column: 0% means free; otherwise busy); use "top" to check CPU usage.
 * To debug your code remotely:
- - a) Open your source file with vi/vim by: vi file.py; 
- - b) Set a break point by pdb.set_trace() (import the pdb package in your code file)
- - c) Run the algorithm and the execution will stop at the break point;
- - d) You can check variable value using print and other techniques;
- - e) Input n for one step execution; c for continue running; q to terminate debug process
- - f) To quit vim and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter"
+  - a) Open your source file with vi/vim by: vi file.py; 
+  - b) Set a break point by pdb.set_trace() (import the pdb package in your code file)
+  - c) Run the algorithm and the execution will stop at the break point;
+  - d) You can check variable value using print and other techniques;
+  - e) Input n for one step execution; c for continue running; q to terminate debug process
+  - f) To quit vim and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter"
  
 Finally, you are welcome to contact me if you have any question.
 
