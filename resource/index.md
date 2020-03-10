@@ -39,6 +39,7 @@ Rank | University Name | Location | Province
 #### Here is a [Map of China](https://www.chinadiscovery.com/china-maps/china-provincial-map.html) and a good [overview of China](https://www.chinadiscovery.com/travel-guide/facts.html)
 
 ## Useful commands/skills for linux 
+ [linux](linux.md)
   * List files in current folder: ls; step into a folder: cd folder; see the size of a file/folder: du -sh file/folder
   * Transfer files from windows to your server folder: a) install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); b) start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/  (replace pscp with scp if your local computer is Ubuntu or Mac)
   * Run your python algorithm: a) activate base environment by: conda activate base; b)step into the folder containing your algorithm coder; c) run your algorithm by: python main.py
