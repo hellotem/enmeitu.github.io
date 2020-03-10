@@ -29,7 +29,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
 * 2017 Rolls-Royce Inventors Award
 * 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at NTU
-* Best Paper Award for 2016 of the journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
+* Best Paper Award for year 2016 of the premier journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
 
 ## Teaching
 * AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
