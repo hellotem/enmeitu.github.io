@@ -9,7 +9,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
    - Your home folder: cd ~ 
    - Root folder: cd /
    - Show where am I: pwd
- * List contents of a folder: ls -option file/folder: 
+ * List contents of a folder: ls -option folder: 
    - Show permission of items in current folder: ls -l
    - Show file size in human readable unit (KB, MB, GB): ls -lh
    - Sort files according to size: ls -lS
