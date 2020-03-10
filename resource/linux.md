@@ -1,6 +1,6 @@
 # Some information for new Linux users
 
-Switching from Windows to Linux, especially to the command terminal in a local or remote server, is propabily a painful experience for most people! But as long as you get familiar with some basic commands and skills, you'll find that Linux is actually easy to deal with and efficient for productivity.  Here I summarize some useful commands and tips that are frequently used in Ubuntu Linux. Hopefully, they could help you to quickly adapt to the new interaction method:
+Switching from Windows to Linux, especially to the command terminal in a local or remote server, is propabily a painful experience for most people! But as long as you get familiar with some basic commands and skills, you'll find that Linux is actually easy to deal with and efficient for productivity.  Here I summarize some useful commands and tricks that are frequently used in Ubuntu Linux. Hopefully, they could help you to quickly adapt to the new interaction method:
 ## Frequent commands for basic operations
  * List hardware information: lshw -short -c device, for example,
    - CPU: lshw -short -c processor
@@ -34,7 +34,8 @@ Switching from Windows to Linux, especially to the command terminal in a local o
 * Connect to your remote sever: 
   - a) Install openssh on your server and start it;
   - b) Check your server IP by *ip -a* and write it down;
-  - c) Open a terminal in you local machine and input the command: ssh username@ip, Enter and input your password. 
+  - c) Open a terminal in you local machine and input the command: ssh username@ip, and input your password. 
+  - d) If login correctly, you should see command prompt _username@servername:~$_
 * Transfer files from local windows to remote server: 
   - a) Install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); 
   - b) Start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/  
