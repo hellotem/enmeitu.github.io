@@ -53,9 +53,10 @@ Switching from Windows to Linux, especially to the command terminal in a local o
 * To debug your code remotely:
  - a) Open your source file with vi/vim by: vi file.py; 
  - b) Set a break point by pdb.set_trace() (import the pdb package in your code file)
- - c) Run the algorithm and the execution will stop at the break point. You can check variable value using print and other techniques;
- - d) Input n for one step execution; c for continue running; q to terminate debug process
- - e) To quit vim and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter"
+ - c) Run the algorithm and the execution will stop at the break point;
+ - d) You can check variable value using print and other techniques;
+ - e) Input n for one step execution; c for continue running; q to terminate debug process
+ - f) To quit vim and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter"
  
 **Finally, you are welcome to contact me if you have any question.**
 
