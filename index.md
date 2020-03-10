@@ -39,6 +39,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - Chair of Session WM4: ELM in Prediction, The 7th International Conference on Extreme Learning Machines (ELM2016)
   - The International Conference on Computer Vision & Image Processing (CVIP2017)
   - International Conference on Intelligence Science and Big Data Engineering (IScIDE 2019)
+  - the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP2019)
   - 26th International Conference on Neural Information Processing (ICONIP2019)
   - The 29th International Joint Conference on Artificial Intelligence (IJCAI2020)
 * Reviewer of (part of): 
@@ -52,7 +53,11 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - IEEE Communications Magazine
   - Neurocomputing
   - Neural Networks
+  - Pattern Recognition Letters
   - IEEE Transactions on Signal Processing
+  - IEEE Transactions on Neural Systems & Rehabilitation Engineering
+  - Applied Soft Computing
+  - Sensors
 
 ## Teaching
 * AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
