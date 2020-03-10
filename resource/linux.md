@@ -49,7 +49,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
   - b) Step into the folder containing your algorithm coder; 
   - c) Run your algorithm by: python main.py
 * If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on internet).
-* Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check if both GPU are occupied by others (right most column: 0% means free; otherwise busy).
+* Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check if both GPU are occupied by others (right most column: 0% means free; otherwise busy); use "top" to check CPU usage.
 * To debug your code remotely:
  - a) Open your source file with vi/vim by: vi file.py; 
  - b) Set a break point by pdb.set_trace() (import the pdb package in your code file)
