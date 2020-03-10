@@ -6,6 +6,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
    - CPU: lshw -short -c processor
    - Hard Drive: lshw -short -c disk
    - Similarly, -c memory, -c display, -class network
+   - devices could be combined to show together, e.g. lshw -short -c processor -c memory
  * Step into a folder: cd folder
    - Parental folder: cd ..
    - Your home folder: cd ~ 
