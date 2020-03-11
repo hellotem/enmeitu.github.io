@@ -39,7 +39,7 @@ Rank | University Name | Location | Province
 #### Here is a [Map of China](https://www.chinadiscovery.com/china-maps/china-provincial-map.html) and a good [overview of China](https://www.chinadiscovery.com/travel-guide/facts.html)
 
 ## Useful commands and skills for a new Linuxer
-Switching from Windows to Linux, especially to the command terminal in a local or remote server, is propabily a painful experience for most people! But as long as you get familiar with some basic commands and skills, you'll find that Linux is actually easy to deal with and efficient for productivity. [Here](linux.md) I summarize some useful commands and tricks that are frequently used in Ubuntu Linux. Hopefully, they could help you quickly adapt to the new interaction method. Click [here](linux.md) to browse. 
+Switching from Windows to Linux, especially the commandline terminal, is propabily a painful experience for most people! But as long as you get familiar with some basic commands and skills, you'll find that Linux is actually easy to deal with and very efficient for productivity in terms of system management and computational model development. [Here](linux.md) I summarized some useful commands and tricks that are frequently used in Ubuntu Linux. Hopefully, they could help you quickly adapt to the new interaction method. Click [here](linux.md) to browse. 
 
 <div style="text-align:center"><img src="1111.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 
