@@ -59,7 +59,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
 * Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check GPU ocupation (right most column: 0% means free; otherwise busy); use "top" to check CPU usage. Make sure no resource usage conflict with other users.
 * To debug your code remotely:
   - a) Open your source file with vi/vim by: vi file.py;
-  - b) Navigate to target line and set a break point by pdb.set_trace() (import the pdb package in your code file)
+  - b) Navigate to target line and set a break point by pdb.set_trace(). Exit edit mode and type ":w", pressing "Enter";
   - c) Run the algorithm again. The execution will stop at the break point;
   - d) Check variable value using print;run the target expression to find out errors; other debugging techniques...
   - e) Input n for one step execution; c to continue running; q to terminate debug process
