@@ -16,6 +16,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
    - Root folder: cd /
    - Show where am I: pwd
  * List contents of a folder: ls -option folder: 
+   - List all by name: ls 
    - Show permission of items in current folder: ls -l
    - Show file size in human readable unit (KB, MB, GB): ls -lh
    - Sort files by size: ls -lS
