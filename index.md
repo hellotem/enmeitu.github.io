@@ -42,7 +42,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP2019)
   - 26th International Conference on Neural Information Processing (ICONIP2019)
   - The 29th International Joint Conference on Artificial Intelligence (IJCAI2020)
-* Reviewer of (part of): 
+* Reviewer of: 
   - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE Transactions on Industrial Informatics
