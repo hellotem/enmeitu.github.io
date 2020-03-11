@@ -1,5 +1,5 @@
 
-## Frequent commands for basic operations
+## Frequently used commands for basic operations
  * List hardware information: lshw -short -c device, e.g.
    - CPU: lshw -short -c processor
    - Hard Drive: lshw -short -c disk
