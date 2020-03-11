@@ -20,7 +20,6 @@ Switching from Windows to Linux, especially to the command terminal in a local o
    - Show permission of items in current folder: ls -l
    - Show file size in human readable unit (KB, MB, GB): ls -lh
    - Sort files by size: ls -lS
- * Show overall size of a folder or file: du -sh file/folder
  * Create/Delete a file/folder: 
    - Create a folder: sudo mkdir foldername
    - Remove a file/folder: sudo rm -rf filename/foldername
@@ -29,6 +28,7 @@ Switching from Windows to Linux, especially to the command terminal in a local o
    - Move a file in current folder to another folder: mv file folder
    - For both commands, add -i option to show confirmation for existing file replacement
    - For both commands, add -R option for whole folder copy/move
+  * Show overall size of a folder or file: du -sh file/folder
   * Download a file from the Internet: wget http://www.xyz.com/file
   * Show CPU and RAM usage of each process: top (press shift+i to show percentage; press q to exit)
   * Show network flow: iftop (q to exit)
