@@ -16,8 +16,8 @@
    - Show file size in human readable unit (KB, MB, GB): ls -lh
    - Sort files by size: ls -lS
  * Create/Delete a file/folder: 
-   - Create a folder: sudo mkdir foldername
-   - Remove a file/folder: sudo rm -rf filename/foldername
+   - Create a folder: mkdir foldername
+   - Remove a file/folder: rm -rf filename/foldername
  * Copy/move a file/folder to another place: cp/mv -options src dest 
    - Copy a file to current folder: cp /foler/file .
    - Move a file in current folder to another folder: mv file folder
@@ -36,29 +36,29 @@
   - b) Check your server IP by *ip -a* and write it down;
   - c) Open a terminal in you local machine and input the command: _ssh username@ip_, press _Enter_ and input your password. 
   - d) If login correctly, you should see the command prompt in the format _username@servername:~$_
-* Transfer files from local windows to remote server: 
-  - a) Install putty (https://www.putty.org/) on you local windows computer (ubuntu or Mac does not require it); 
-  - b) Start transferring: pscp "D:\myfile.xyz" accountname@202.120.37.176:~/;
+* Transfer files between local computer and remote server: 
+  - a) Install putty (https://www.putty.org/) on you local Windows computer (local Linux or Mac does not require it); 
+  - b) Local -> server: pscp local_file_path accountname@ip:server_file_path
+  - c) Server -> local: pscp accountname@ip:server_file_path local_file_path
   - c) Replace pscp with scp if your local computer is Ubuntu or Mac
 * Most data and code could be downloaded from the Internet, so you really don't have to transfer everything from you local computer to the remote server. Instead, you can obtain them by: 
   - a) Downloading a file: wget https://www.xyz.com/file 
   - b) Cloning a git repository: git clone https://github.com/xyz/myrepo.git 
   
 ## Run/debug Python code on a remote server
-* Run your Python code in conda environment: 
+* Run your Python code in a conda environment: 
   - a) Log into your remote server via ssh (see the above section for howto)
   - b) Activate your conda environment by: conda activate base; 
   - c) Step into the folder containing your algorithm code; 
   - d) Run your algorithm by: python main.py.
 * If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on internet).
-* Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check GPU ocupation (right most column: 0% means free; otherwise busy); use "top" to check CPU usage. Make sure no resource usage conflict with other users.
-* To debug your code remotely:
+* Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check GPU ocupation (right most column: 0% means free; otherwise being busy); use "top" to check CPU usage (press q to quit). Make sure no GPU/CPU usage conflict.
+* To debug your Python code remotely:
   - a) Open your source file with vi/vim by: vi file.py;
-  - b) Navigate to target line and set a break point by pdb.set_trace(). Exit edit mode and type ":w", pressing "Enter";
+  - b) Navigate to target line and setup a break point by _pdb.set_trace()_. Save and Exit (Press "Esc"; type ":wq"; press "Enter");
   - c) Run the algorithm again. The execution will stop at the break point;
   - d) Check variable value using print;run the target expression to find out errors; other debugging techniques...
   - e) Input n for one step execution; c to continue running; q to terminate debug process
-  - f) To quit vim and return to the command input terminal, Press "Esc" and type ":q", then pressing "Enter".
  
 Finally, you are welcome to contact me if you have any question.
 
