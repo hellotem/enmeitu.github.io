@@ -81,10 +81,6 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - 2019: Ziliang Wang
   - 2020: Yuchao Wang
 
-## Contact
-* Email: tuen#sjtu.edu.cn (replace # with @, e.g. _abc#sjtu.edu.cn_ means _abc@sjtu.edu.cn_)
-* Office: SEIEE 2-428, 800 Dongchuan Road, Shanghai, China
-
 
 <!-- ### Header 3
 
