@@ -1,7 +1,7 @@
 ## My contact information
 * Email: tuen\[at\]sjtu.edu.cn (\[at\] ---> @)
 * Address: 800 Dongchuan Road, Minhang District, Shanghai, China
-* Office: SEIEE Building 2, Room 428
+* Office: SEIEE School Building 2, Room 428
 <div style="text-align:center"><img src="sjtumap.png" alt="Markdown Monster icon" align="center" width="600" /></div>
 
 ## More information
