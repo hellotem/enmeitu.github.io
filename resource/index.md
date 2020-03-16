@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-## Announcements
-*  For SJTU students who want to participate in researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research".
-* I am very happy to write recommendation letters for students who attend my classes or take part into research activities in our lab. Please send me a copy of your transcript and CV (if you have one). 
+## Information for prospective students
+* I have 1-2 full-time Master students vacacies each year. Currently, no plan for recruiting PhD students. If you are interested to persue a Master degree under my supervision, please feel free contact me.
+* For SJTU undergraduate students who want to participate into lab researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research".
+* I am happy to write recommendation letters for students who attend my classes or take part into research activities in our lab. Please send me a copy of your transcript and CV (if you have one). 
 
 ## Major AI related conferences
 
