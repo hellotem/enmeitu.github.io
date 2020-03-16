@@ -1,4 +1,4 @@
 ## Contact
 * Email: tuen\[at\]sjtu.edu.cn (\[at\] ---> @)
 * Address: SEIEE 2-428, 800 Dongchuan Road, Shanghai, China
-* Google Scholar: https://scholar.google.com/citations?user=TDg-0cQAAAAJ&hl=en
+* Google Map {google_map}23.625269,-111.5054567{/google_map}
