@@ -1,5 +1,5 @@
 
-## Frequently used commands for basic operations
+## Frequently used Linux commands
  * List hardware information: lshw -short -c device, e.g.
    - CPU: lshw -short -c processor
    - Hard Drive: lshw -short -c disk
@@ -30,7 +30,7 @@
   * Show disk space: df -Th
   * Install/uninstall a application: sudo apt install/remove appname
 
-## Tips for operating a sever remotely
+## Tips for remote Linux server management
 * Connect to your remote sever via ssh: 
   - a) Install openssh on your server and start it;
   - b) Check your server IP by *ip -a* and write it down;
