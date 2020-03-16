@@ -46,16 +46,16 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE Transactions on Industrial Informatics
+  - IEEE Transactions on Big Data
+  - IEEE Communications Magazine
+  - IEEE Transactions on Signal Processing
+  - IEEE Transactions on Neural Systems & Rehabilitation Engineering
   - Multimedia Tools and Applications
   - International Journal of Computational Intelligence Systems
   - The Thirty-First AAAI Conference on Artificial Intelligence
-  - IEEE Transactions on Big Data
-  - IEEE Communications Magazine
   - Neurocomputing
   - Neural Networks
   - Pattern Recognition Letters
-  - IEEE Transactions on Signal Processing
-  - IEEE Transactions on Neural Systems & Rehabilitation Engineering
   - Applied Soft Computing
   - Sensors
 
