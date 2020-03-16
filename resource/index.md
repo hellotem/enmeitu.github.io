@@ -22,7 +22,7 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 [AAAI-20](https://aaai.org/Conferences/AAAI-20/)| ~~Sep 05, 2019~~| Feb 07-12, 2020| New York, USA
 
 
-## Best universities in China ([full ARWU ranking list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
+## Best universities in mainland China ([full ARWU ranking list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
 
 Rank | University Name | Location | Province
 ----- | ------------ | --------- | ----------
