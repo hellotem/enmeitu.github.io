@@ -17,7 +17,8 @@
    - Sort files by size: ls -lS
  * Create/Delete a file/folder: 
    - Create a folder: mkdir foldername
-   - Remove a file/folder: rm -rf filename/foldername
+   - Remove a file: rm filename
+   - Remove a folder: rm -rf foldername
  * Copy/move a file/folder to another place: cp/mv -options src dest 
    - Copy a file to current folder: cp /foler/file .
    - Move a file in current folder to another folder: mv file folder
