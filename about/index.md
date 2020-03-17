@@ -5,6 +5,7 @@
 <div style="text-align:center"><img src="sjtumap.png" alt="Markdown Monster icon" align="center" width="600" /></div>
 
 ## More information
-* The University: http://en.sjtu.edu.cn/
-* The SEIEE School: http://english.seiee.sjtu.edu.cn/english/index.htm
-* The Department: http://automation.sjtu.edu.cn/en/Default.aspx
+* [The University Website](http://en.sjtu.edu.cn/)
+* [The SEIEE School](http://english.seiee.sjtu.edu.cn/english/index.htm)
+* [The Department](http://automation.sjtu.edu.cn/en/Default.aspx)
+* [My Google Scholar](https://scholar.google.com/citations?user=TDg-0cQAAAAJ&hl=en)
