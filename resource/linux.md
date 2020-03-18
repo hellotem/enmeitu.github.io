@@ -1,4 +1,4 @@
-**Preface:** This note is not a complete tutorial about Linux system. Rather, it is just quick references for the lab students to run their algorithm on the MLKD-Server with minimal requirements of Linux knowledge. An elegant tutorial of Unix/Linux system given by _Sean Kross_ can be found [HERE](https://github.com/hellotem/the-unix-workbench)
+**Preface:** This note is not a complete tutorial about Linux system. Rather, it is just quick references for the lab students to run their algorithm on the MLKD-Server with a minimal requirement of Linux knowledge. An elegant tutorial of Unix/Linux system given by _Sean Kross_ can be found [HERE](https://github.com/hellotem/the-unix-workbench)
 
 ## Frequently used Linux commands
  * List hardware information: lshw -short -c device, e.g.
@@ -53,7 +53,7 @@
   - b) Activate your conda environment by: conda activate base; 
   - c) Step into the folder containing your algorithm code; 
   - d) Run your algorithm by: python main.py.
-* If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on internet).
+* If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on the Internet).
 * Before running your algorithm, you can use "nvidia-smi" (if with a GPU) to check GPU ocupation (right most column: 0% means free; otherwise being busy); use "top" to check CPU usage (press q to quit). Make sure no GPU/CPU usage conflict.
 * To debug your Python code remotely:
   - a) Open your source file with vi/vim by: vi file.py;
