@@ -1,4 +1,4 @@
-**Preface:** This note is not a complete tutorial about Linux system. Rather, it is just quick references for the lab students to run their algorithm on the MLKD-Server with minimal requirements of Linux knowledge. A more elegant tutorial of Linux system given by Sean Kross can be found [HERE](https://github.com/hellotem/the-unix-workbench)
+**Preface:** This note is not a complete tutorial about Linux system. Rather, it is just quick references for the lab students to run their algorithm on the MLKD-Server with minimal requirements of Linux knowledge. A more elegant tutorial of Linux system given by _Sean Kross_ can be found [HERE](https://github.com/hellotem/the-unix-workbench)
 
 ## Frequently used Linux commands
  * List hardware information: lshw -short -c device, e.g.
