@@ -1,52 +1,57 @@
 **Preface:** This note is not a complete tutorial about Linux system. Rather, it is just quick references for the lab students to run their algorithm on the MLKD-Server with a minimal requirement of Linux knowledge. An elegant tutorial of Unix/Linux system given by _Sean Kross_ can be found [HERE](https://github.com/hellotem/the-unix-workbench)
 
 ## Frequently used Linux commands
- * List hardware information: lshw -short -c device, e.g.
+(Note: italic words mean user input/specify term)
+ * List hardware information: **lshw -short -c** _device_, e.g.
    - CPU: lshw -short -c processor
    - Hard Drive: lshw -short -c disk
    - Similarly, -c memory, -c display, -class network
    - devices could be combined to show together, e.g. lshw -short -c processor -c memory
- * Step into a folder: cd folder
+ * Step into a folder: cd _folder_
    - Parental folder: cd ..
-   - Your home folder: cd ~ or *cd /home/username*
+   - Your home folder: cd ~ or cd /home/_username_
    - Root folder: cd /
-   - Show where am I: pwd
- * List contents of a folder: ls -option folder: 
+   - Show current path: pwd
+ * List contents of a folder: ls -option _folder_: 
    - List all by name: ls 
    - Show permission of items in current folder: ls -l
    - Show file size in human readable unit (KB, MB, GB): ls -lh
    - Sort files by size: ls -lS
  * Create/Delete a file/folder: 
-   - Create a folder: mkdir foldername
-   - Remove a file: rm filename
-   - Remove a folder: rm -rf foldername
- * Copy/move a file/folder to another place: cp/mv -options src dest 
-   - Copy a file to current folder: cp /foler/file .
-   - Move a file in current folder to another folder: mv file folder
+   - Create a folder: mkdir _foldername_
+   - Remove a file: rm _filename_
+   - Remove a folder: rm -rf _foldername_
+ * Copy/move a file/folder to another place: cp/mv -options _src dest_ 
+   - Copy a file to current folder: cp _/foler/file_ . (don't miss the dot ".")
+   - Move a file in current folder to another folder: mv _file folder_
    - For both commands, add -i option to show confirmation for existing file replacement
    - For both commands, add -R option for whole folder copy/move
-  * Show overall size of a folder or file: du -sh file/folder
-  * Download a file from the Internet: wget http://www.xyz.com/file
+  * Show overall size of a folder or file: du -sh _file/folder_
+  * Download a file from the Internet: wget _http://www.xyz.com/file_
   * Show CPU and RAM usage of each process: top (press shift+i to show percentage; press q to exit)
   * Show network flow: iftop (q to exit)
   * Show disk space: df -Th
-  * Install/uninstall a application: sudo apt install/remove appname
+  * Install/uninstall a application: sudo apt install/remove _appname_
 
 ## Tips for remote Linux server management
 * Connect to your remote sever via ssh: 
   - a) Install openssh on your server and start it;
   - b) Check your server IP by *ip -a* and write it down;
-  - c) Open a terminal in you local machine and input the command: _ssh username@ip_, press _Enter_ and input your password. 
-  - d) If login correctly, you should see the command prompt in the format _username@servername:~$_
+  - c) Open a terminal in you local machine and input the command: ssh _username@ip_, press "Enter" and input your password. 
+  - d) If login correctly, you should see the command prompt in the format "username@servername:~$"
 * Transfer files between local computer and remote server: 
   - a) Install putty (https://www.putty.org/) on you local Windows computer (local Linux or Mac does not require it); 
-  - b) Local -> server: pscp local_file_path accountname@ip:server_file_path
-  - c) Server -> local: pscp accountname@ip:server_file_path local_file_path
+  - b) Local -> server: pscp -option _local_file_path accountname@ip:server_file_path_
+  - c) Server -> local: pscp -option _accountname@ip:server_file_path local_file_path_
   - c) Replace pscp with scp if your local computer is Ubuntu or Mac
+  - d) Use -r option for whole a folder transfer
 * Most data and code could be downloaded from the Internet, so you really don't have to transfer everything from you local computer to the remote server. Instead, you can obtain them by: 
-  - a) Downloading a file: wget https://www.xyz.com/file 
-  - b) Cloning a git repository: git clone https://github.com/xyz/myrepo.git 
+  - a) Downloading a file: wget _https://www.xyz.com/file_ 
+  - b) Cloning a git repository: git clone _https://github.com/xyz/myrepo.git_ 
   
+## Python packages/environments management
+"Conda is an open-source, cross-platform, language-agnostic package manager and environment management system. " -- from Wikipedia. With it you can quickly create a virtual environment and install version-specific packages.
+  - a) Create a environment: conda create --name _envname_
 ## Run/debug Python code on a remote server
 * Run your Python code in a conda environment: 
   - a) Log into your remote server via ssh (see the above section for howto)
