@@ -31,7 +31,29 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at NTU
 * Best Paper Award for year 2016 of the premier journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
 
-## Professional Services
+## Teaching
+* AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
+* AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
+* AI006:  Practices of Artificial Intelligence (2020), Undergraduate
+
+## Current Students 
+* Master of Enginnering (MEng):
+  - 2018: Zihao Wang
+  - 2019: Xiao Han, Zhiqiang Xie
+* Master of Engineering Management (MEM):
+  - 2018: Fenchao Shen, Di Wu
+  - 2019: Ke Wu, Xin Chen, Houran Xia
+* Final Year Project (FYP):
+  - 2018: Xiao Han, Fanbin Lu, Lei Wu
+  - 2019: Fangyi Zhu, Haimiao Zhang, Xiang He, Yiming Peng
+* Participation in Research Program (PRP): 
+  - 2019: Yuncheng Yang, Jinghang Peng
+* Undergraduates R&D Projects: 
+  - 2018: Meng Zhou, Zhicheng Li, Yifan Wu
+  - 2019: Ziliang Wang
+  - 2020: Yuchao Wang
+  
+  ## Professional Services
 * PC Member of: 
   - 13th Int. Conf. on Neuro-Computing & Evolving Intelligence (NCEI15)
   - International Cybersecurity Data Mining Competition (CDMC2015)
@@ -58,30 +80,9 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - Pattern Recognition Letters
   - Applied Soft Computing
   - Sensors
-
-## Teaching
-* AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
-* AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
-* AI006:  Practices of Artificial Intelligence (2020), Undergraduate
-
-## Current Students 
-* Master of Enginnering (MEng):
-  - 2018: Zihao Wang
-  - 2019: Xiao Han, Zhiqiang Xie
-* Master of Engineering Management (MEM):
-  - 2018: Fenchao Shen, Di Wu
-  - 2019: Ke Wu, Xin Chen, Houran Xia
-* Final Year Project (FYP):
-  - 2018: Xiao Han, Fanbin Lu, Lei Wu
-  - 2019: Fangyi Zhu, Haimiao Zhang, Xiang He, Yiming Peng
-* Participation in Research Program (PRP): 
-  - 2019: Yuncheng Yang, Jinghang Peng
-* Undergraduates R&D Projects: 
-  - 2018: Meng Zhou, Zhicheng Li, Yifan Wu
-  - 2019: Ziliang Wang
-  - 2020: Yuchao Wang
+  - Knowledge-Based Systems
   
-<a href="https://www.revolvermaps.com/livestats/5bntgtwpz99/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5bntgtwpz99.png" width="256" height="128" alt="Map" style="border:0;"></a>
+<a href="https://www.revolvermaps.com/livestats/51kwcklcm58/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/200/30/51kwcklcm58.png" width="400" height="200" alt="Map" style="border:0;"></a>
 
 <!-- ### Header 3
 
