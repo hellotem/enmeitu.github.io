@@ -36,24 +36,8 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
 * AI006:  Practices of Artificial Intelligence (2020), Undergraduate
 
-## Current Students 
-* Master of Enginnering (MEng):
-  - 2018: Zihao Wang
-  - 2019: Xiao Han, Zhiqiang Xie
-* Master of Engineering Management (MEM):
-  - 2018: Fenchao Shen, Di Wu
-  - 2019: Ke Wu, Xin Chen, Houran Xia
-* Final Year Project (FYP):
-  - 2018: Xiao Han, Fanbin Lu, Lei Wu
-  - 2019: Fangyi Zhu, Haimiao Zhang, Xiang He, Yiming Peng
-* Participation in Research Program (PRP): 
-  - 2019: Yuncheng Yang, Jinghang Peng
-* Undergraduates R&D Projects: 
-  - 2018: Meng Zhou, Zhicheng Li, Yifan Wu
-  - 2019: Ziliang Wang
-  - 2020: Yuchao Wang
   
-  ## Professional Services
+## Professional Services
 * PC Member of: 
   - 13th Int. Conf. on Neuro-Computing & Evolving Intelligence (NCEI15)
   - International Cybersecurity Data Mining Competition (CDMC2015)
@@ -81,6 +65,24 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - Applied Soft Computing
   - Sensors
   - Knowledge-Based Systems
+  
+## Current Students 
+* Master of Enginnering (MEng):
+  - 2018: Zihao Wang
+  - 2019: Xiao Han, Zhiqiang Xie
+* Master of Engineering Management (MEM):
+  - 2018: Fenchao Shen, Di Wu
+  - 2019: Ke Wu, Xin Chen, Houran Xia
+* Final Year Project (FYP):
+  - 2018: Xiao Han, Fanbin Lu, Lei Wu
+  - 2019: Fangyi Zhu, Haimiao Zhang, Xiang He, Yiming Peng
+* Participation in Research Program (PRP): 
+  - 2019: Yuncheng Yang, Jinghang Peng
+* Undergraduates R&D Projects: 
+  - 2018: Meng Zhou, Zhicheng Li, Yifan Wu
+  - 2019: Ziliang Wang
+  - 2020: Yuchao Wang
+  
   
 Thanks for visiting my homepage!
 
