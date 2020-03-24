@@ -58,7 +58,7 @@ With conda, you can quickly create a virtual environment and install specific ve
 * Environment management:
   - a) Create an environment: **conda create --name** _envname_
   - b) Activate an environment: **conda activate** _envname_
-  - c) List all existing environment: **conda env list**
+  - c) List all existing environments: **conda env list**
   - d) Delete an environment: **conda env remove --name** _envname_
 
 * Package management: 
