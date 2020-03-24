@@ -82,10 +82,10 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - Sensors
   - Knowledge-Based Systems
   
-  
+Thanks for visiting my homepage!
 <a href="https://www.revolvermaps.com/livestats/594u56sxkob/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/90/30/594u56sxkob.png" width="180" height="90" alt="Map" style="border:0;"></a>
 
-Thanks for visiting my homepage!
+
 
 <!-- ### Header 3
 
