@@ -53,7 +53,7 @@
 ## Python packages/environments management
 "Conda is an open-source, cross-platform, language-agnostic package manager and environment management system. " -- from Wikipedia. 
 
-With conda, you can quickly create a virtual environment and install specific version packages for your different python algorithms. A virtual environment is an isolated configuration that usually not visible in system scope. So you can install/manage different versions of a python package (e.g. numpy) and make them co-exist in a system without interferencing each other.
+With conda, you can quickly create a virtual environment and install specific version packages for your different python algorithms. A virtual environment is an isolated configuration that usually not visible in the system scope. So, you can install/manage different versions of a python package (e.g. python 2.x and python 3.x) and make them co-exist in a system without interfering with each other.
 
 * Environment management:
   - a) Create an environment: **conda create --name** _envname_
