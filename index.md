@@ -31,6 +31,12 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at NTU
 * Best Paper Award for year 2016 of the premier journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
 
+## Teaching
+* AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
+* AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
+* AI006:  Practices of Artificial Intelligence (2020), Undergraduate
+
+  
 ## Professional Services
 * PC Member of: 
   - 13th Int. Conf. on Neuro-Computing & Evolving Intelligence (NCEI15)
@@ -58,12 +64,8 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - Pattern Recognition Letters
   - Applied Soft Computing
   - Sensors
-
-## Teaching
-* AU28004: Intelligent Computational Theory and Applications (2018, 2019), Graduate
-* AU331: Machine Learning and Knowledge Discovery (2018, 2019), Undergraduate
-* AI006:  Practices of Artificial Intelligence (2020), Undergraduate
-
+  - Knowledge-Based Systems
+  
 ## Current Students 
 * Master of Enginnering (MEng):
   - 2018: Zihao Wang
@@ -80,6 +82,12 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - 2018: Meng Zhou, Zhicheng Li, Yifan Wu
   - 2019: Ziliang Wang
   - 2020: Yuchao Wang
+  
+  
+Thanks for visiting my homepage!
+
+<a href="https://www.revolvermaps.com/livestats/594u56sxkob/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/90/30/594u56sxkob.png" width="180" height="90" alt="Map" style="border:0;"></a>
+
 
 
 <!-- ### Header 3
