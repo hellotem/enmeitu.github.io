@@ -25,7 +25,8 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2007.09--2010.07, University of Electronic Science and Technology of China, MEng
 * 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
 
-## Awards
+## Awards/Honors
+* 2019-2020, course evaluation achieves A2 by students (rank 44/384 among whole the school)
 * 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
 * 2017 Rolls-Royce Inventors Award
 * 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at NTU
