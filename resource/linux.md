@@ -62,7 +62,7 @@ With conda, you can quickly create a virtual environment and install specific ve
   - a) Install putty (https://www.putty.org/) on you local Windows computer (local Linux or Mac does not require it); 
   - b) Local -> server: **pscp** -option _local_file_path username@ip:server_file_path_
   - c) Server -> local: **pscp** -option _usename@ip:server_file_path local_file_path_
-  - c) Replace **pscp** with **scp** if your local computer is Ubuntu or Mac
+  - c) Replace **pscp** with **scp** if your local computer is Linux or Mac (be aware of the path name difference! Windows uses '\' while Linux and Mac use '/')
   - d) Use -r option for whole a folder transfer
 * Most data and code could be downloaded from the Internet, so you really don't have to transfer everything from you local computer to the remote server. Instead, you can obtain them by: 
   - a) Downloading a file: **wget** _https://www.xyz.com/file_ 
