@@ -42,8 +42,8 @@
   - d) If login correctly, you should see the command prompt in the format "username@servername:~$"
 * Transfer files between local computer and remote server: 
   - a) Install putty (https://www.putty.org/) on you local Windows computer (local Linux or Mac does not require it); 
-  - b) Local -> server: **pscp** -option _local_file_path accountname@ip:server_file_path_
-  - c) Server -> local: **pscp** -option _accountname@ip:server_file_path local_file_path_
+  - b) Local -> server: **pscp** -option _local_file_path username@ip:server_file_path_
+  - c) Server -> local: **pscp** -option _usename@ip:server_file_path local_file_path_
   - c) Replace **pscp** with **scp** if your local computer is Ubuntu or Mac
   - d) Use -r option for whole a folder transfer
 * Most data and code could be downloaded from the Internet, so you really don't have to transfer everything from you local computer to the remote server. Instead, you can obtain them by: 
