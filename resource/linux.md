@@ -33,24 +33,8 @@
   * Show network flow: **iftop** (q to exit)
   * Show disk space: **df -Th**
   * Install/uninstall a application: sudo apt install/remove _appname_
-
-## Tips for remote Linux server management
-* Connect to your remote sever via ssh: 
-  - a) Install openssh on your server and start it;
-  - b) Check your server IP by **ip -a** and write it down;
-  - c) Open a terminal in you local machine and input the command: **ssh** _username@ip_, press "Enter" and input your password. 
-  - d) If login correctly, you should see the command prompt in the format "username@servername:~$"
-* Transfer files between local computer and remote server: 
-  - a) Install putty (https://www.putty.org/) on you local Windows computer (local Linux or Mac does not require it); 
-  - b) Local -> server: **pscp** -option _local_file_path username@ip:server_file_path_
-  - c) Server -> local: **pscp** -option _usename@ip:server_file_path local_file_path_
-  - c) Replace **pscp** with **scp** if your local computer is Ubuntu or Mac
-  - d) Use -r option for whole a folder transfer
-* Most data and code could be downloaded from the Internet, so you really don't have to transfer everything from you local computer to the remote server. Instead, you can obtain them by: 
-  - a) Downloading a file: **wget** _https://www.xyz.com/file_ 
-  - b) Cloning a git repository: **git clone** _https://github.com/xyz/myrepo.git_ 
   
-## Python packages/environments management
+  ## Python packages/environments management
 "Conda is an open-source, cross-platform, language-agnostic package manager and environment management system. " -- from Wikipedia. 
 
 With conda, you can quickly create a virtual environment and install specific version packages for your different python algorithms. A virtual environment is an isolated configuration that usually not visible in the system scope. So, you can install/manage different versions of a python package (e.g. python 2.x and python 3.x) and make them co-exist in a system without interfering with each other.
@@ -66,6 +50,24 @@ With conda, you can quickly create a virtual environment and install specific ve
   - b) List installed packages: **conda list** 
   - c) Remove a package: **conda remove** _pkgname_
   - d) Search all available versions of a package: **conda search** _pkgname_
+  
+
+## Remote Linux server connection and data transferring
+* Connect to your remote sever via ssh: 
+  - a) Install openssh on your server and start it;
+  - b) Check your server IP by **ip -a** and write it down;
+  - c) Open a terminal in you local machine and input the command: **ssh** _username@ip_, press "Enter" and input your password (you may need to set forward rules if your sever is behind a router). 
+  - d) If login correctly, you should see the command prompt in the format "username@servername:~$"
+* Transfer files between local computer and remote server: 
+  - a) Install putty (https://www.putty.org/) on you local Windows computer (local Linux or Mac does not require it); 
+  - b) Local -> server: **pscp** -option _local_file_path username@ip:server_file_path_
+  - c) Server -> local: **pscp** -option _usename@ip:server_file_path local_file_path_
+  - c) Replace **pscp** with **scp** if your local computer is Ubuntu or Mac
+  - d) Use -r option for whole a folder transfer
+* Most data and code could be downloaded from the Internet, so you really don't have to transfer everything from you local computer to the remote server. Instead, you can obtain them by: 
+  - a) Downloading a file: **wget** _https://www.xyz.com/file_ 
+  - b) Cloning a git repository: **git clone** _https://github.com/xyz/myrepo.git_ 
+  
 
 ## Run/debug Python code on a remote server
 * Run your Python code in a conda environment: 
