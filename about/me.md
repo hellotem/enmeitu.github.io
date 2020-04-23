@@ -6,4 +6,4 @@ I was born in a rural village in Huoqiu, Anhui province. I feel fortunate to mee
 
 ![alt-text-2](wed3.jpg "flower rain")
 
-![alt-text-2](wed4.jpg "release peagon")
+![alt-text-2](wed4.jpg "release pigeon")
