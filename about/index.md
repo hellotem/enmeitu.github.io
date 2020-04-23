@@ -9,3 +9,4 @@
 * [The SEIEE School](http://english.seiee.sjtu.edu.cn/english/index.htm)
 * [The Department](http://automation.sjtu.edu.cn/en/Default.aspx)
 * [My Google Scholar](https://scholar.google.com/citations?user=TDg-0cQAAAAJ&hl=en)
+* [About me](me.md)
