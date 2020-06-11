@@ -37,6 +37,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * AU331: Machine Learning and Knowledge Discovery (2018, 2019, 2020), Undergraduate
 * AI006:  Practices of Artificial Intelligence (2020), Undergraduate
 * A talk delivered to students and colleagues in India ([Youtube video](https://www.youtube.com/watch?v=EUVfQk7qMt4&feature=youtu.be))
+
 <!--  
 ## Professional Services
 * PC Member of: 
@@ -67,6 +68,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - Sensors
   - Knowledge-Based Systems
   -->
+  
 ## Current Students 
 * Master of Enginnering (MEng):
   - 2018: Zihao Wang
