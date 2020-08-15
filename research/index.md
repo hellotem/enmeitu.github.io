@@ -13,7 +13,7 @@
  * Semi-Supervised Deep Learning Algorithms and Their Applications to Time Series Data Prediction. Natural Science Foundation Of China (NSFC) Young Scientists Fund (**PI**)
  * Deep Spiking Neural Network Model and Applications in Spatio-Temporal Data Analysis. Natural Science Foundation of Shanghai (**PI**)
  * Startup Fund for Youngman Research at Shanghai Jiao Tong University (SFYR at SJTU) (**PI**)
- * Key Technologies of Brain-like Computing Models for Video Analysis. Natural Science Foundation Of China (NSFC), 2019.01-2023.01 (**CoI**)
+ * Brain-like Computing Models for Video Analysis. Natural Science Foundation Of China (NSFC), 2019.01-2023.01 (**CoI**)
 * Multilayer Non-Positive Definite Kernel Learning Theory, Algorithm and Application Research. Natural Science Foundation Of China (NSFC), 2020.01-2024.01 (**CoI**)
 * Construction of Heart Fiber DTI Map and Cardiac Fiber Constant Feature Detection Based on Fiber Information Joint Clustering and Sparse Registration. Natural Science Foundation Of China (NSFC), 2019.01-2021.01 (**CoI**)
 #### Participant
