@@ -10,16 +10,20 @@ layout: default
 
 Conference Name  | Submission Deadline | Conference Date |Conference Location 
 ----------------- | -------------| -------------|-------------
-[NeurIPS-20](https://nips.cc/Conferences/2020)| May 05, 2020 (abstract)| Dec 2-8, 2020|Vancouver, Canada
-[ICCV-21](https://www.thecvf.com/?page_id=100)|Mar 17, 2020|Jan 28-29, 2021|Montreal, Canada
+[AAAI-21](https://aaai.org/Conferences/AAAI-21/)| Sep 09, 2020| Feb 02-09, 2021| virtual
+[ICLR-21](https://iclr.cc/) | Oct 02, 2021| May 4-7, 2021|Vienna, Austria
+[CVPR-20](http://cvpr2021.thecvf.com/) | Nov 16, 2020|Jun 21-24, 2021|Nashville, USA
+[ACL-21](https://2021.aclweb.org/)|TBD|Aug 2 – 4, 2021|Bangkok, Thailand
+[ICCV-21](http://iccv2021.thecvf.com/home)|Mar 17, 2021|Oct 11-17, 2021|Montreal, Canada
+[NeurIPS-20](https://nips.cc/Conferences/2020)| ~~May 05, 2020~~| Dec 2-8, 2020|Vancouver, Canada
 [ECCV-20](https://eccv2020.eu/)|~~Mar 05, 2020~~|Aug 23-28, 2020|Glasgow, UK
 [SIGKDD-20](https://www.kdd.org/kdd2020/#!) | ~~Feb 13, 2020~~ | Aug 22, 2020 | San Diego, CA, USA
 [ICML-20](https://icml.cc/Conferences/2020)| ~~Jan 30, 2020~~| Jul 12-18, 2020|Vienna, Austria
 [IJCAI-20](http://www.ijcai20.org) | ~~Jan 21, 2020~~|Jul 11-17, 2020|Yokohama, Japan
-[ACL-20](https://acl2020.org/)|~~Dec 09, 2019~~|Jul 5-10, 2020|Seattle, USA
-[CVPR-20](http://cvpr2020.thecvf.com/) | ~~Nov 15, 2019~~|Jun 14-19, 2020|Seattle, USA
-[ICLR-20](https://iclr.cc/) | ~~Sep 25,2019~~| Apr 26-30, 2020|Addis Ababa, Ethiopia
-[AAAI-20](https://aaai.org/Conferences/AAAI-20/)| ~~Sep 05, 2019~~| Feb 07-12, 2020| New York, USA
+
+
+
+
 
 
 ## Best universities in China ([full ARWU ranking list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
