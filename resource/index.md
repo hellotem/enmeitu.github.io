@@ -12,7 +12,7 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 ----------------- | -------------| -------------|-------------
 [AAAI-21](https://aaai.org/Conferences/AAAI-21/)| Sep 09, 2020| Feb 02-09, 2021| virtual
 [ICLR-21](https://iclr.cc/) | Oct 02, 2021| May 4-7, 2021|Vienna, Austria
-[CVPR-20](http://cvpr2021.thecvf.com/) | Nov 16, 2020|Jun 21-24, 2021|Nashville, USA
+[CVPR-21](http://cvpr2021.thecvf.com/) | Nov 16, 2020|Jun 21-24, 2021|Nashville, USA
 [ACL-21](https://2021.aclweb.org/)|TBD|Aug 2 – 4, 2021|Bangkok, Thailand
 [ICCV-21](http://iccv2021.thecvf.com/home)|Mar 17, 2021|Oct 11-17, 2021|Montreal, Canada
 [NeurIPS-20](https://nips.cc/Conferences/2020)| ~~May 05, 2020~~| Dec 2-8, 2020|Vancouver, Canada
@@ -26,7 +26,7 @@ Conference Name  | Submission Deadline | Conference Date |Conference Location
 
 
 
-## Best universities in China ([full ARWU ranking list](http://www.shanghairanking.com/Chinese_Universities_Rankings/Overall-Ranking-2019.html))
+## Best universities in China ([full ARWU ranking list](http://www.shanghairanking.com/World-University-Rankings-2020/China.html))
 
 Rank | University Name | Location | Province
 ----- | ------------ | --------- | ----------
@@ -34,8 +34,8 @@ Rank | University Name | Location | Province
 2	|Peking University	|Beijing | Beijing
 3	|Zhejiang University	|Hangzhou | Zhejiang
 4	|Shanghai Jiao Tong University|	Shanghai | Shanghai
-5	|Fudan University	|Shanghai | Shanghai
-6	|University of Science and Technology of China|	Hefei |Anhui
+5	|University of Science and Technology of China|	Hefei |Anhui
+6	|Fudan University	|Shanghai | Shanghai
 7	|Huazhong University of Science and Technology|	Wuhan | Hubei
 7	|Nanjing University	|Nanjing | Jiangsu
 9	|Sun Yat-Sen University	|Guangzhou | Guangdong
