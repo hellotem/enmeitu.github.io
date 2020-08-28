@@ -48,5 +48,5 @@ Switching from Windows to Linux, especially the command line interaction termina
 
 <div style="text-align:center"><img src="1111.png" alt="Markdown Monster icon" align="center" width="500" /></div>
 
-###### Updated on Mar 11, 2020
+###### Updated on August, 2020
 
