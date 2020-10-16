@@ -74,6 +74,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * Master of Enginnering (MEng):
   - 2018: Zihao Wang
   - 2019: Xiao Han, Zhiqiang Xie
+  - 2020: Yiming Sun, Shuai Tang
 * Master of Engineering Management (MEM):
   - 2018: Fenchao Shen, Di Wu
   - 2019: Ke Wu, Xin Chen, Houran Xia
