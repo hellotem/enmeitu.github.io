@@ -27,7 +27,8 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
 
 ## Awards/Honors
-* 2019-2020, course evaluation achieves A2 (ranking top 10% in School of EIEE)
+* 2020.11, Second Award of the Fourth SEIEE Teaching Contest
+* 2019.12, course evaluation achieves A2 (ranking top 10% in School of EIEE)
 * 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
 * 2017 Rolls-Royce Inventors Award
 * 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at NTU
@@ -37,7 +38,8 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * AU28004: Theory and Application of Intelligent Information Processing (2018, 2019, 2020), Graduate
 * AU331: Machine Learning and Knowledge Discovery (2018, 2019, 2020), Undergraduate
 * AI006:  Practices of Artificial Intelligence (2020), Undergraduate
-* A talk delivered to students and colleagues in India ([Youtube video](https://www.youtube.com/watch?v=EUVfQk7qMt4&feature=youtu.be))
+ 
+<!-- A talk delivered to students and colleagues in India ([Youtube video](https://www.youtube.com/watch?v=EUVfQk7qMt4&feature=youtu.be))-->
 
 <!--  
 ## Professional Services
@@ -74,6 +76,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * Master of Enginnering (MEng):
   - 2018: Zihao Wang
   - 2019: Xiao Han, Zhiqiang Xie
+  - 2020: Yiming Sun, Shuai Tang
 * Master of Engineering Management (MEM):
   - 2018: Fenchao Shen, Di Wu
   - 2019: Ke Wu, Xin Chen, Houran Xia
