@@ -83,6 +83,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * Final Year Project (FYP):
   - 2018: Xiao Han, Fanbin Lu, Lei Wu
   - 2019: Fangyi Zhu, Haimiao Zhang, Xiang He, Yiming Sun
+  - 2020: Yuchao Wang, Jingwei Zhao
 * Participation in Research Program (PRP): 
   - 2019: Yuncheng Yang, Jinghang Peng
 * Undergraduates R&D Projects: 
