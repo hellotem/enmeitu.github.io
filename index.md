@@ -27,6 +27,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
 
 ## Awards/Honors
+* 2020.12, Third Award of the Fifth Shanghai Jiao Tong University Teaching Contest
 * 2020.11, Influential paper award for year 2020,  Journal of Shanghai Jiao Tong University
 * 2020.11, Second Award of the Fourth SEIEE Teaching Contest
 * 2019.12, Teaching rated to A2 (ranking top ~10% in the School)
