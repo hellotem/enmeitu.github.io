@@ -1,4 +1,4 @@
-I was born in a rural village in Huoqiu, Anhui province. I feel fortunate to meet my wife, when we both were students at Shanghai Jiao Tong University. On June 08, 2019, we held our wedding ceremony on Bali island, Indonesia. 
+I was born in a rural village in Huoqiu, Anhui province. I feel fortunate to meet my [wife](https://yaqianzhang.github.io/), when we both were students at Shanghai Jiao Tong University. On June 08, 2019, we held our wedding ceremony on Bali island, Indonesia. 
 
 ![alt-text-1](wed1.jpg "wedding prelude") 
 

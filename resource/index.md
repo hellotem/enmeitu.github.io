@@ -37,7 +37,7 @@ Rank | University Name | Location | Province
 5	|University of Science and Technology of China|	Hefei |Anhui
 6	|Fudan University	|Shanghai | Shanghai
 7	|Huazhong University of Science and Technology|	Wuhan | Hubei
-7	|Nanjing University	|Nanjing | Jiangsu
+8	|Nanjing University	|Nanjing | Jiangsu
 9	|Sun Yat-Sen University	|Guangzhou | Guangdong
 10	|Harbin Institute of Technology	|Harbin | Heilongjiang
 
