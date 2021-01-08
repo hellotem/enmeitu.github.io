@@ -25,7 +25,7 @@
 ## Patents:
 *  Graph-based k-means for nonlinear manifold clustering and representative points selection, CN103617609B
 *  Multi-resolution variant regional level set for image segmentation,  CN102044077B
-*  Historical AIS data modeling for path prediction, UK Patent
+*  Historical AIS data modeling for path prediction, UK Patent (In processing)
 
 ## Selected Publications 
 (Full Publications: [Google Scholar](https://scholar.google.com.sg/citations?user=TDg-0cQAAAAJ&hl=en))
