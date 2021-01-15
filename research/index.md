@@ -29,6 +29,9 @@
 
 ## Selected Publications 
 (Full Publications: [Google Scholar](https://scholar.google.com.sg/citations?user=TDg-0cQAAAAJ&hl=en))
+
+* Yuchao Wang, Enmei Tu, Yehui Yang, Chunhui Wang, Jie Yang, Adversarial attacks on semi-supervised deep neural networks [(PDF)](Template.pdf)
+
 * Xiao Han, Zihao Wang, Enmei Tu*, Gunnam Suryanarayana, and Jie Yang. Semi-Supervised Deep Learning Using Improved Unsupervised Discriminant Projection, _International Conference on Neural Information Processing (ICONIP)_, 2019.
 * Doborjeh Maryam, Nikola Kasabov, Zohreh Doborjeh, Reza Enayatollahi, Enmei Tu, and Amir H. Gandomi. Personalised modelling with spiking neural networks integrating temporal and static information. _Neural Networks_, 119 (2019): 162-177.
 * Chen Mingjian, Hao Zheng, Changsheng Lu, Enmei Tu, Jie Yang, and Nikola Kasabov. Accurate breast lesion segmentation by exploiting spatio-temporal information with deep recurrent and convolutional network. _Journal of Ambient Intelligence and Humanized Computing_ (2019): 1-9.
