@@ -2,9 +2,9 @@
 layout: default
 ---
 ## Information for prospective students
-* I have 1-2 full-time Master students vacancies each year. Currently, I have no plan to recruit PhD students. If you are interested in pursuing a Master's degree under my supervision, please feel free to contact me.
+* I have 1-2 full-time Master student vacancies each year. Currently, I have no plan to recruit PhD students. If you are interested in pursuing a Master's degree under my supervision, please feel free to contact me.
 * For SJTU students who want to participate in lab researches on machine learning and artificial intelligence, please contact me directly with an email titled "SJTU Student Research".
-* I am happy to write recommendation letters for the students who attend my classes or take part in research activities in our lab. Please send me a copy of your transcript and CV (if you have one). 
+* I am happy to write recommendation letters for the students who attend my classes or take part into research activities in our lab. Please send me a copy of your transcript and CV (if you have one). 
 
 ## Major AI related conferences
 

@@ -1,4 +1,4 @@
-**Preface:** This note is not a complete tutorial about Linux system. Rather, it is just quick references for the lab students to run their algorithms on the MLKD-Server with a minimal requirement of Linux knowledge. An elegant tutorial of Unix/Linux system given by _Sean Kross_ can be found [HERE](https://github.com/hellotem/the-unix-workbench)
+**Preface:** This note is not a complete tutorial about Linux system. Rather, it is just a short reference for the lab students to run their algorithms on the MLKD-Server with a minimal requirement of Linux knowledge. An elegant tutorial of Unix/Linux system given by _Sean Kross_ can be found [HERE](https://github.com/hellotem/the-unix-workbench)
 
 ## Frequently used Linux commands
 (Note: **bold** words mean commands and _italic_ words mean user specified terms)
