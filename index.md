@@ -9,11 +9,11 @@ layout: default
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-# Welcome to Enmei Tu's homepage! 
-Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Nov 2014. From Dec 2014 to Dec 2017, he  worked as a Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore. He has been a tenure-track Assistant Professor at SJTU from Jan 2018. His research interests are semi-supervised learning, neural networks and brain cognition theory inspired learning. 
+# Welcome to Enmei Tu's homepage!
+Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Nov 2014. From Dec 2014 to Dec 2017, he  worked as a Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore. He has been a tenure-track Assistant Professor at SJTU from Jan 2018. His research interests are semi-supervised learning, neural networks and brain cognition theory inspired learning.
 
 ## Working Experiences
-* 2018.01--Present, Shanghai Jiao Tong University, China. Assistant Professor 
+* 2018.01--Present, Shanghai Jiao Tong University, China. Assistant Professor
 * 2019.03--2019.04, Auckland University of Technology, New Zealand. Visiting Scholar
 * 2015.08--2017.12, Nanyang Technological Univerity, Singapore. Research Fellow
 * 2014.12--2015.08, Auckland University of Technology, New Zealand. Postdoc Research Fellow
@@ -28,7 +28,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2020.12, Third Award of the Fifth Shanghai Jiao Tong University Teaching Contest
 * 2020.11, Influential paper award for year 2020,  Journal of Shanghai Jiao Tong University
 * 2020.11, Second Award of the Fourth SEIEE Teaching Contest
-* 2019.12, Teaching rated to A2 (ranking top ~10% in the School)
+* 2019.12, Teaching rated to A2 (ranking top ~10% in the School, [unfiltered students feedbacks](sr.xlsx))
 * 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
 * 2017 Rolls-Royce Inventors Award
 * 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at NTU
@@ -38,12 +38,12 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * AU28004: Theory and Application of Intelligent Information Processing (2018, 2019, 2020), Graduate
 * AU331: Machine Learning and Knowledge Discovery (2018, 2019, 2020), Undergraduate
 * AI006:  Practices of Artificial Intelligence (2020), Undergraduate
- 
+
 <!-- A talk delivered to students and colleagues in India ([Youtube video](https://www.youtube.com/watch?v=EUVfQk7qMt4&feature=youtu.be))-->
 
 <!--  
 ## Professional Services
-* PC Member of: 
+* PC Member of:
   - 13th Int. Conf. on Neuro-Computing & Evolving Intelligence (NCEI15)
   - International Cybersecurity Data Mining Competition (CDMC2015)
   - InternationalWorkshop on Data Mining for Cybersecurity (DMC2015);
@@ -53,7 +53,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP2019)
   - 26th International Conference on Neural Information Processing (ICONIP2019)
   - The 29th International Joint Conference on Artificial Intelligence (IJCAI2020)
-* Reviewer of: 
+* Reviewer of:
   - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE Transactions on Industrial Informatics
@@ -71,8 +71,8 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - Sensors
   - Knowledge-Based Systems
   -->
-  
-## Current Students 
+
+## Current Students
 * Master of Enginnering (MEng):
   - 2018: Zihao Wang
   - 2019: Xiao Han, Zhiqiang Xie
@@ -85,14 +85,14 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
   - 2018: Xiao Han, Fanbin Lu, Lei Wu
   - 2019: Fangyi Zhu, Haimiao Zhang, Xiang He, Yiming Sun
   - 2020: Yuchao Wang, Jingwei Zhao
-* Participation in Research Program (PRP): 
+* Participation in Research Program (PRP):
   - 2019: Yuncheng Yang, Jinghang Peng
-* Undergraduates R&D Projects: 
+* Undergraduates R&D Projects:
   - 2018: Meng Zhou, Zhicheng Li, Yifan Wu
   - 2019: Ziliang Wang
   - 2020: Yuchao Wang
-  
-  
+
+
 *******************************************************************
 Thanks for visiting my homepage!
 
