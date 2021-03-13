@@ -15,7 +15,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 ## Working Experiences
 * 2018.01--Present, Shanghai Jiao Tong University, China. Assistant Professor
 * 2019.03--2019.04, Auckland University of Technology, New Zealand. Visiting Scholar
-* 2015.08--2017.12, Nanyang Technological Univerity, Singapore. Research Fellow
+* 2015.08--2017.12, Nanyang Technological University, Singapore. Research Fellow
 * 2014.12--2015.08, Auckland University of Technology, New Zealand. Postdoc Research Fellow
 * 2013.11--2014.02, Auckland University of Technology, New Zealand. Visiting Scholar
 
