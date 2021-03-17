@@ -25,10 +25,11 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
 
 ## Awards/Honors
+* 2021.03, Teaching rated to A1 (ranking to top ~5%, [unfiltered students feedbacks](sr.xlsx))
 * 2020.12, Third Award of the Fifth Shanghai Jiao Tong University Teaching Contest
 * 2020.11, Influential paper award for year 2020,  Journal of Shanghai Jiao Tong University
 * 2020.11, Second Award of the Fourth SEIEE Teaching Contest
-* 2019.12, Teaching rated to A1 (ranking to top ~5%, [unfiltered students feedbacks](sr.xlsx))
+* 2019.12, Teaching rated to A2 (ranking to top ~10%)
 * 2018 Best Paper Award for year 2016 of the premier journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
 * 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
 * 2017 Rolls-Royce Inventors Award
