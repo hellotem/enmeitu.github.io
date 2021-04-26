@@ -25,7 +25,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2003.09--2007.07, University of Electronic Science and Technology of China, BEng
 
 ## Awards/Honors
-* 2021.03, Teaching rated to A1 (ranking to top ~5%, [unfiltered students feedbacks](sr.xlsx))
+* 2021.03, Teaching rated to A1 (ranking to top ~5%, [students feedbacks](sr.xlsx))
 * 2020.12, Third Award of the Fifth Shanghai Jiao Tong University Teaching Contest
 * 2020.11, Influential paper award for year 2020,  Journal of Shanghai Jiao Tong University
 * 2020.11, Second Award of the Fourth SEIEE Teaching Contest
@@ -38,7 +38,7 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 ## Teaching
 * AU28004: Theory and Application of Intelligent Information Processing (2018, 2019, 2020), Graduate
 * AU331: Machine Learning and Knowledge Discovery (2018, 2019, 2020), Undergraduate
-* AI006:  Practices of Artificial Intelligence (2020), Undergraduate
+* AI006:  Programming of Artificial Intelligence (2020), Undergraduate
 
 <!-- A talk delivered to students and colleagues in India ([Youtube video](https://www.youtube.com/watch?v=EUVfQk7qMt4&feature=youtu.be))-->
 
