@@ -30,8 +30,11 @@
 ## Selected Publications 
 (Full Publications: [Google Scholar](https://scholar.google.com.sg/citations?user=TDg-0cQAAAAJ&hl=en))
 
-* Yuchao Wang, Enmei Tu, Yehui Yang, Chunhui Wang, Jie Yang, Adversarial attacks on semi-supervised deep neural networks [(PDF)](Template.pdf)
-
+* Zihao Wang, Enmei Tu* and Zhicheng Lee. Deep Semi-Supervised Learning via Dynamic Anchor Graph Embedding Learning, _2021 International Joint Conference on Neural Networks (IJCNN 2021).
+* Zihao Wang, Zhiqiang Xie, Enmei Tu*, Alex Zhong and Yingying Liu. Reinforcement Learning-Based Insulin Injection Time And Dosages Optimization, _2021 International Joint Conference on Neural Networks (IJCNN 2021).
+* Zhiqiang Xie, Enmei Tu*, Hao Zheng, Yun Gu and Jie Yang. Semi-Supervised Skin Lesion Segmentation With Learning Model Confidence, _2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021).
+* Zihao Wang, Enmei Tu*, and Zhou Meng. End-To-End Graph-based Deep Semi-Supervised Learning with Extended Graph Laplacian, _2020 China Automation Congress (CAC 2020).
+* Tianyi Zhang, Yun Gu, Xiaolin Huang, Enmei Tu, and Jie Yang. Stereo Endoscopic Image Super-Resolution Using Disparity-Constrained Parallel Attention, _The International Conference on Learning Representations (ICLR 2020, workshop paper)
 * Xiao Han, Zihao Wang, Enmei Tu*, Gunnam Suryanarayana, and Jie Yang. Semi-Supervised Deep Learning Using Improved Unsupervised Discriminant Projection, _International Conference on Neural Information Processing (ICONIP)_, 2019.
 * Doborjeh Maryam, Nikola Kasabov, Zohreh Doborjeh, Reza Enayatollahi, Enmei Tu, and Amir H. Gandomi. Personalised modelling with spiking neural networks integrating temporal and static information. _Neural Networks_, 119 (2019): 162-177.
 * Chen Mingjian, Hao Zheng, Changsheng Lu, Enmei Tu, Jie Yang, and Nikola Kasabov. Accurate breast lesion segmentation by exploiting spatio-temporal information with deep recurrent and convolutional network. _Journal of Ambient Intelligence and Humanized Computing_ (2019): 1-9.
