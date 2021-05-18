@@ -7,7 +7,7 @@
 ## More information
 * [The University Website](http://en.sjtu.edu.cn/)
 * [The SEIEE School](http://english.seiee.sjtu.edu.cn/english/index.htm)
-* [The Department](http://automation.sjtu.edu.cn/en/Default.aspx)
+* [The Department](https://automation.sjtu.edu.cn/)
 * [My Google Scholar](https://scholar.google.com/citations?user=TDg-0cQAAAAJ&hl=en)
 * [A bit more about me...](me.md)
 * [Some random notes...](notes.md)
