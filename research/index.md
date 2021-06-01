@@ -10,7 +10,8 @@
  
 ## Projects & Grants
 #### Principal Investigator/Co-Investigator
- * Semi-Supervised Deep Learning Algorithms and Their Applications to Time Series Data Prediction. Natural Science Foundation Of China (NSFC) Young Scientists Fund (**PI**)
+ * Artificial Intelligence Course Construction and Reform, Industry-Education-Research Collaboration Funding of Ministry of Education of China (**PI**)
+ * Semi-Supervised Deep Learning Algorithms and Their Applications to Time Series Data Prediction. Natural Science Foundation Of China (NSFC) Young Scientists Fund 2021.01-2021.12 (**PI**)
  * Deep Spiking Neural Network Model and Applications in Spatio-Temporal Data Analysis. Natural Science Foundation of Shanghai (**PI**)
  * Startup Fund for Youngman Research at Shanghai Jiao Tong University (SFYR at SJTU) (**PI**)
  * Brain-like Computing Models for Video Analysis. Natural Science Foundation Of China (NSFC), 2019.01-2023.01 (**CoI**)
