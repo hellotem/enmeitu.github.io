@@ -23,7 +23,7 @@
    - Remove a file: **rm** _filename_
    - Remove a folder: **rm -rf** _foldername_
  * Copy/move a file/folder (src) to another place (dest): **cp/mv** -options _src dest_, e.g.
-   - Copy a file to current folder: cp _/foler/file_ . (don't miss the dot ".")
+   - Copy a file to current folder: cp _/folder/file_ . (don't miss the dot ".")
    - Move a file in current folder to another folder: mv _file folder_
    - For both commands, add -i option to show confirmation for existing file replacement
    - For both commands, add -R option for whole folder copy/move
