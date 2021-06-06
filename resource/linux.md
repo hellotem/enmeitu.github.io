@@ -33,12 +33,28 @@
   * Show network flow: **iftop** (q to exit)
   * Show disk space: **df -Th**
   * Install/uninstall a application: sudo apt install/remove _appname_
+
+## Run and debug Python codes
+* Run a Python code file (main.py): python main.py
+* Create/Edit a Python code file with Vim Editor:
+  - Open/create a Python code file: vim main.py (install vim first by the command **sudo apt install vim**)
+  - Use left, right, up and down arrows (or page up and page down) to navigate through you code file
+  - To input/change code: first press button "i" for edit mode, so the vim will accept keyboard inputs normally.
+  - To quit and save changes: first press "Esc", then type :wq and "Enter" (":" means command, "w" means write and "q" means quit)
+* Debug a Python code file:
+  - Import the python debugging package in your python code file by "import pdb"
+  - Insert a new line "pdb.set_trace()" just before the line where you want to stop to debug
+  - Run your python file and it will stop executing at the line you just added.
+  - Check you variables' value and state by inputing their name, input "q" to quit debugging mode
+ 
   
 ## Python packages/environments management
 "Conda is an open-source, cross-platform, language-agnostic package manager and environment management system. " -- from Wikipedia. 
 
 With conda, you can quickly create a virtual environment and install specific version packages for your different python algorithms. A virtual environment is an isolated configuration that usually not visible in the system scope. So, you can install/manage different versions of a python package (e.g. python 2.x and python 3.x) and make them co-exist in a system without interfering with each other.
 
+* Install miniconda: [https://conda.io/projects/conda/en/latest/user-guide/install/linux.html](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+* 
 * Environment management:
   - a) Create an environment: **conda create --name** _envname_
   - b) Activate an environment: **conda activate** _envname_
@@ -59,7 +75,7 @@ With conda, you can quickly create a virtual environment and install specific ve
   - c) Open a terminal in you local machine and input the command: **ssh** _username@ip_, press "Enter" and input your password (you may need to set forward rules if your sever is behind a router). 
   - d) If login correctly, you should see the command prompt in the format "username@servername:~$"
 * Transfer files between local computer and remote server: 
-  - a) Install putty (https://www.putty.org/) on you local Windows computer (local Linux or Mac does not require it); 
+  - a) Install [putty] (https://www.putty.org/) on you local Windows computer (local Linux or Mac does not require it); 
   - b) Local -> server: **pscp** -option _local_file_path username@ip:server_file_path_
   - c) Server -> local: **pscp** -option _usename@ip:server_file_path local_file_path_
   - c) Replace **pscp** with **scp** if your local computer is Linux or Mac (be aware of the path name difference! Windows uses '\' while Linux and Mac use '/')
