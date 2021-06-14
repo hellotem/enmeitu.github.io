@@ -41,6 +41,7 @@
   - Use left, right, up and down arrows (or page up and page down) to navigate through you code file
   - To input/change code: first press button "i" to enter edit mode, so the vim will accept keyboard inputs normally.
   - To save changes and quit Vim: first press "Esc" to quit edit mode, then type :wq and press "Enter" (":" means command, "w" means write and "q" means quit)
+  - To quit Vim without saving: change input ":wq" to ":q!"
 * Debug a Python code file:
   - Import the python debugging package in your python code file by "import pdb"
   - Insert a new line "pdb.set_trace()" just before the line where you want to stop to debug
