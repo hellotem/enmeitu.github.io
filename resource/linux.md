@@ -54,7 +54,7 @@
 
 With conda, you can quickly create a virtual environment and install specific version packages for your different python algorithms. A virtual environment is an isolated configuration that is usually not visible in system scope. So, you can safely install/manage different versions of a python package (e.g. python 2.x and python 3.x) and make them co-exist in a system without interfering with each other (e.g. you want to run several python algorithms simultaneously but each of them needs a different version of python).
 
-* Install miniconda: [https://conda.io/projects/conda/en/latest/user-guide/install/linux.html](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+* Install Anaconda/Miniconda (the difference is the former installs all packages, hence taking large disk space, but the latter only contains a few necessary packages): [https://conda.io/projects/conda/en/latest/user-guide/install/linux.html](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
 
 * Environment management:
   - a) Create an environment: **conda create --name** _envname_
