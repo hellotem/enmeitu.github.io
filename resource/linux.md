@@ -35,17 +35,17 @@
   * Install/uninstall a application: sudo apt install/remove _appname_
 
 ## Run and debug Python codes
-* Run a Python code file (main.py): python main.py
+* Run a Python code file (e.g. main.py): python main.py
 * Create/Edit a Python code file with Vim Editor:
   - Open/create a Python code file: vim main.py (install vim first by the command **sudo apt install vim**)
   - Use left, right, up and down arrows (or page up and page down) to navigate through you code file
-  - To input/change code: first press button "i" for edit mode, so the vim will accept keyboard inputs normally.
-  - To quit and save changes: first press "Esc", then type :wq and "Enter" (":" means command, "w" means write and "q" means quit)
+  - To input/change code: first press button "i" to enter edit mode, so the vim will accept keyboard inputs normally.
+  - To save changes and quit Vim: first press "Esc" to quit edit mode, then type :wq and press "Enter" (":" means command, "w" means write and "q" means quit)
 * Debug a Python code file:
   - Import the python debugging package in your python code file by "import pdb"
   - Insert a new line "pdb.set_trace()" just before the line where you want to stop to debug
   - Run your python file and it will stop executing at the line you just added.
-  - Check you variables' value and state by inputing their name, input "q" to quit debugging mode
+  - Check you variables' value and state by inputing their name, input "q" and press "Enter" to quit debugging mode
  
   
 ## Python packages/environments management
@@ -91,14 +91,14 @@ With conda, you can quickly create a virtual environment and install specific ve
   - b) Activate your conda environment by: **conda activate** _envname_; 
   - c) Step into the folder containing your algorithm code; 
   - d) Run your algorithm by: **python** _main.py_.
-* If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the "screen" command (search for a tutorial on the Internet).
+* If your algorithm runs for a long time and you want to monitor it status frequently, you can write algorithm intermediate resuls to a file and check it each time after you login. Alternatively, you may use the friendly **_screen_** command (search on the Internet for a tutorial, pls!).
 * Before running your algorithm, you can use **nvidia-smi** to check GPU ocupation (right most column: 0% means free; otherwise being busy); use **top** to check CPU usage (press q to quit). Make sure no GPU/CPU usage conflict.
 * To debug your Python code remotely:
-  - a) Open your source file with vi/vim by: **vi** _file.py_;
+  - a) Open your source file with vi/vim by: **vim** _file.py_;
   - b) Navigate to target line and setup a break point by **pdb.set_trace()**. Save and Exit (Press "Esc"; type ":wq"; press "Enter");
-  - c) Run the algorithm again. The execution will stop at the break point;
+  - c) Run the algorithm again. Execution will stop at the break point;
   - d) Check variable value using print;run the target expression to find out errors; other debugging techniques...
-  - e) Input n for one step execution; c to continue running; q to terminate debug process
+  - e) Input "n" for one step execution; "c" to continue running; "q" to terminate debug process
  
 Finally, you are welcome to contact me if you have any question.
 
