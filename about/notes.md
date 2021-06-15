@@ -3,4 +3,6 @@ If someday human conquered death and becomes immortal, then the human will never
 
 So death is part of human. We come here because "we" die. 
 
+![alt-text-1](death.jpeg "death & born") 
+
 --June 16, 2021.
