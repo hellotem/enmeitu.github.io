@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 # Welcome to Enmei Tu's homepage!
-Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Nov 2014. From Dec 2014 to Dec 2017, he  worked as a Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore. He has been a tenure-track Assistant Professor at SJTU from Jan 2018. His research interests are semi-supervised learning, neural networks and brain cognition theory inspired learning.
+Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Nov 2014. From Dec 2014 to Dec 2017, he  worked as a Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore. He has been a tenure-track Assistant Professor at SJTU from Jan 2018. His research interests are semi-supervised learning, neural networks and brain cognition theory inspired learning. 
 
 ## Working Experiences
 * 2018.01--Present, Shanghai Jiao Tong University, China. Assistant Professor
@@ -29,7 +29,6 @@ Enmei obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http:/
 * 2020.12, Third Award of the Fifth Shanghai Jiao Tong University Teaching Contest
 * 2020.11, Influential paper award for year 2020,  Journal of Shanghai Jiao Tong University
 * 2020.11, Second Award of the Fourth SEIEE Teaching Contest
-* 2020.04, As a machine learning expert be interviewed by journalist Jackie Snow and reported by [Hakai Magazine](https://www.hakaimagazine.com/news/the-invisible-vector/)
 * 2019.12, Teaching rated to A2 (ranking to top ~10%)
 * 2018 Best Paper Award for year 2016 of the premier journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
 * 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
