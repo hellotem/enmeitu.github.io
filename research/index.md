@@ -17,16 +17,7 @@
  * Deep Spiking Neural Network Model and Applications in Spatio-Temporal Data Analysis. Natural Science Foundation of Shanghai (**PI**)
  * Startup Fund for Youngman Research at Shanghai Jiao Tong University (SFYR at SJTU) (**PI**)
  * Construction of Heart Fiber DTI Map and Cardiac Fiber Constant Feature Detection Based on Fiber Information Joint Clustering and Sparse Registration. Natural Science Foundation Of China (NSFC), 2019.01-2021.01 (**CoI**)
-<!--
- * Brain-like Computing Models for Video Analysis. Natural Science Foundation Of China (NSFC), 2019.01-2023.01 (**CoI**)
-* Multilayer Non-Positive Definite Kernel Learning Theory, Algorithm and Application Research. Natural Science Foundation Of China (NSFC), 2020.01-2024.01 (**CoI**)
 
-#### Participant
-* Marine Navigational Decision Aid Based Upon Vessel Route Prediction from Historical Evidence.  National Research Foundation (NRF) of Singapore, 2015.08 - 2017.12
-* NeuCube System for Spatio-Temporal Data Analysis, Visualization and Knowledge Extraction. AUT Strategic Research Investment Fund, 2014.12 - 2015.08
-* Ecological Pollution Monitoring and Warning Oriented Remote Sensing Image Analysis and Understanding. Ministry of Science and Technology of China International Cooperation Project, 2014.02 - 2014. 11 
-* Remote Sensing Monitoring, Understanding and Ecological Pollution Warning Intelligent Research. Ministry of Science and Technology of China International Cooperation Project, 2010.09 - 2013.11
--->
 ## Patents:
 *  Graph-based k-means for nonlinear manifold clustering and representative points selection, CN103617609B
 *  Multi-resolution variant regional level set for image segmentation,  CN102044077B
