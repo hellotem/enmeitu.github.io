@@ -26,6 +26,7 @@
 ## Selected Publications 
 (Full Publications: [Google Scholar](https://scholar.google.com.sg/citations?user=TDg-0cQAAAAJ&hl=en))
 
+* Enmei Tu, Zihao Wang, Jie Yang, and Nikola Kasabov. "Deep semi-supervised learning via dynamic anchor graph embedding in latent space." Neural Networks (2021).
 * Zihao Wang, Enmei Tu* and Zhicheng Lee. Deep Semi-Supervised Learning via Dynamic Anchor Graph Embedding Learning, _2021 International Joint Conference on Neural Networks (IJCNN 2021)_.
 * Zihao Wang, Zhiqiang Xie, Enmei Tu*, Alex Zhong and Yingying Liu. Reinforcement Learning-Based Insulin Injection Time And Dosages Optimization, _2021 International Joint Conference on Neural Networks (IJCNN 2021)_.
 * Zhiqiang Xie, Enmei Tu*, Hao Zheng, Yun Gu and Jie Yang. Semi-Supervised Skin Lesion Segmentation With Learning Model Confidence, _2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021)_.
