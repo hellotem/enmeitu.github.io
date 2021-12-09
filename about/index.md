@@ -2,6 +2,7 @@
 * Email: tuen@abc.edu.cn (replace **_abc_** with **_sjtu_**)
 * Address: 800 Dongchuan Road, Minhang District, Shanghai, China
 * Office: SEIEE School Building 2-428
+* Our Lab: [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/En/Home)
 <div style="text-align:center"><img src="sjtumap.jpeg" title="Minhang Campus" alt="Markdown Monster icon" align="center" width="600" /></div>
 
 ## More information
