@@ -5,7 +5,7 @@ So, death seems to be part of human being. We come here because WE died.
 
 ![alt-text-1](death.jpeg "death & born") 
 
-# Some fun paper titles 
-Just collected some fun paper titles (mostly) in AI area [papertoics.pdf](papertopics.pdf)
+# Some interesting paper titles 
+Just collected some interesting paper titles (mostly) in AI area [papertoics.pdf](papertopics.pdf)
 
 --June 16, 2021.
