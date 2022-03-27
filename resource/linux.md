@@ -10,8 +10,9 @@
    - devices could be combined to show together, e.g. lshw -short -c processor -c memory
  * Step into a folder: **cd** _folder_, e.g.
    - Parental folder: cd ..
-   - Your home folder: cd ~ or cd /home/_username_
+   - Your home folder: cd or cd ~ or cd /home/_username_ (this is the root folder for your account)
    - Root folder: cd /
+   - Last visited folder: cd -
    - Show current path: pwd
  * List contents of a folder: **ls** -option _folder_, e.g.
    - List all by name: ls 
