@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 # Welcome to Enmei Tu's homepage!
-Enmei /ən-meɪ/ obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Nov 2014. From Dec 2014 to Dec 2017, he  worked as a Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore. He has been a tenure-track Assistant Professor at SJTU from Jan 2018. His research interests are semi-supervised learning, neural networks and brain cognition theory inspired learning. 
+Enmei /'ən-meɪ/ obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Nov 2014. From Dec 2014 to Dec 2017, he  worked as a Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore. He has been a tenure-track Assistant Professor at SJTU from Jan 2018. His research interests are semi-supervised learning, neural networks and brain cognition theory inspired learning. 
 
 ## Education
 * 2010.09--2014.11, Shanghai Jiao Tong University, PhD
