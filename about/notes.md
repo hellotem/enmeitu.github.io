@@ -11,3 +11,8 @@ So, death seems to be part of human being. We come here because WE died.
 Just collected some interesting paper titles (mostly) in AI area [papertopics.pdf](papertopics.pdf). 
 
 --Dec 16, 2021
+
+# AI and Human 
+It's still hard to say, if AI will bring human into darkness, or it will bring human to walk through darkness. [An Interview with AI model (GPT-3)](https://www.youtube.com/watch?v=PqbB07n_uQ4)
+
+--Jun 14, 2022
