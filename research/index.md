@@ -2,11 +2,11 @@
 
 * **Semi-Supervised Learning:** manually labeled samples usually are expensive and scarce.  It is economical to train classifiers (shallow or deep models) using a small amount of labeled samples and aboundant, easily available unlabeled samples.
 
-<div style="text-align:center"><img src="ssl7.png" alt="Markdown Monster icon" align="center" width="500" /></div>
+<div style="text-align:center"><img src="ssl7.png" alt="Markdown Monster icon" align="center" width="550" /></div>
 
 * **Deep Neural Networks:** understanding brain learning mechanism and developing highly effective AI algorithms are a pair of dual problems. It is interesting to explore the foundamental neural learning rules shared across biological and artificial intelligence.
 
-<div style="text-align:center"><img src="biai4.jpg" alt="Markdown Monster icon" align="center" width="500"/></div> 
+<div style="text-align:center"><img src="biai4.jpg" alt="Markdown Monster icon" align="center" width="550"/></div> 
  
 
 ## Projects & Grants
