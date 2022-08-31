@@ -66,7 +66,7 @@ Enmei /'ən-meɪ/ obtained his PhD degree from [Shanghai Jiao Tong University (S
   - Knowledge-Based Systems
   -->
 
-## Current Students
+## Past Students
 * Master of Enginnering (MEng):
   - 2018: Zihao Wang
   - 2019: Xiao Han, Zhiqiang Xie
