@@ -34,7 +34,7 @@
   * Show network flow: **iftop** (q to exit)
   * Show disk space: **df -Th**
   * Install/uninstall a application: sudo apt install/remove _appname_
-  * terminal shortcuts
+  * Terminal shortcuts
     - <C-P> previous running cmd
     - <C-N> next running cmd
     - <C-R> search in cmd history
