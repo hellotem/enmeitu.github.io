@@ -35,16 +35,16 @@
   * Show disk space: **df -Th**
   * Install/uninstall a application: sudo apt install/remove _appname_
   * Terminal shortcuts
-    - <C-P> previous running cmd
-    - <C-N> next running cmd
-    - <C-R> search in cmd history
-    - <C-U> delete all input before cursor
-    - <C-A> jump to cmd line start (left end)
-    - <C-E> jump to cmd line end (right end)
-    - <C-W> delete the word before cursor
-    - <C-D> delete the charater after cursor
-    - <C-Right> cursor move one word rightwards
-    - <C-Left> cursor move one word leftwards
+    - C-P show previous running cmd
+    - C-N show next running cmd
+    - C-R search in cmd history
+    - C-U delete all input before cursor
+    - C-A jump to cmd line start (left end)
+    - C-E jump to cmd line end (right end)
+    - C-W delete the word before cursor
+    - C-D delete the charater after cursor
+    - C-Right cursor move one word rightwards
+    - C-Left cursor move one word leftwards
 
 ## Run and debug Python codes
 * Run a Python code file (e.g. main.py): python main.py
