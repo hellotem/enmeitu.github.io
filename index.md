@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 # Welcome to Enmei Tu's homepage!
-Enmei /'ən-meɪ/ obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Nov 2014. From Dec 2014 to Dec 2017, he  worked as a Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore. He was a tenure-track Assistant Professor at SJTU from Jan 2018 to Dec 2021, and will join the [Crown Research Institutes of New Zealand](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/research-organisations/cri/) as a Data Scientist. His research interests are semi-supervised learning, neural networks and brain cognition theory inspired learning. 
+Enmei /'ən-meɪ/ obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Nov 2014. From Dec 2014 to Dec 2017, he  worked as a Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore. He was a tenure-track Assistant Professor at SJTU from Jan 2018 to Dec 2021, and will join the [Crown Research Institutes of New Zealand](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/research-organisations/cri/) as a Data Scientist (permanent position). His research interests are semi-supervised learning, neural networks and brain cognition theory inspired learning. 
 
-(The website is not under regular maintainance!)
+(The website is not under maintenance anymore!)
 
 ## Education
 * 2010.09--2014.11, Shanghai Jiao Tong University, PhD
@@ -22,10 +22,10 @@ Enmei /'ən-meɪ/ obtained his PhD degree from [Shanghai Jiao Tong University (S
 ## Awards/Honors
 * 2021.03, Teaching rated to A1 (ranking to top ~5%, [students feedbacks](sr.xlsx))
 * 2020.12, Third Award of the Fifth Shanghai Jiao Tong University Teaching Contest
-* 2020.11, Influential paper award for year 2020,  Journal of Shanghai Jiao Tong University
+* 2020.11, Influential paper award for the year 2020,  Journal of Shanghai Jiao Tong University
 * 2020.11, Second Award of the Fourth SEIEE Teaching Contest
 * 2019.12, Teaching rated to A2 (ranking to top ~10%)
-* 2018 Best Paper Award for year 2016 of the premier journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
+* 2018 Best Paper Award for the year 2016 of the premier journal [Neural Networks](https://www.journals.elsevier.com/neural-networks)
 * 2017.06, FE (Far Exceed), the top award of yearly research appraisal at NTU
 * 2017 Rolls-Royce Inventors Award
 * 2016.06, EE (Exceed Expectation), second award of yearly research appraisal at NTU
@@ -35,7 +35,7 @@ Enmei /'ən-meɪ/ obtained his PhD degree from [Shanghai Jiao Tong University (S
 * AU331: Machine Learning and Knowledge Discovery (2018, 2019, 2020), Undergraduate
 * AI006:  Programming of Artificial Intelligence (2020), Undergraduate
 
-<!-- A talk delivered to students and colleagues in India ([Youtube video](https://www.youtube.com/watch?v=EUVfQk7qMt4&feature=youtu.be))-->
+<!-- A talk delivered to students and staffs in an Indian college ([Youtube video](https://www.youtube.com/watch?v=EUVfQk7qMt4&feature=youtu.be))-->
 
 <!--  
 ## Professional Services
