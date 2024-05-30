@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Welcome to Enmei Tu's homepage!
 Enmei /'ən-meɪ/ obtained his PhD degree from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Nov 2014. From Dec 2014 to Dec 2017, he  worked as a Research Fellow at [Auckland University of Technology (AUT)](https://www.aut.ac.nz/), New Zealand and [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), Singapore. He was a tenure-track Assistant Professor at SJTU from Jan 2018 to Dec 2021, and will join the [Crown Research Institutes of New Zealand](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/research-organisations/cri/) as a Data Scientist (permanent position). His research interests are semi-supervised learning, neural networks and brain cognition theory inspired learning. 
 
-(The website is not under maintenance anymore!)
+(This website is not under maintenance anymore!)
 
 ## Education
 * 2010.09--2014.11, Shanghai Jiao Tong University, PhD
